@@ -1,0 +1,272 @@
+[
+  {
+    "id": "high-001",
+    "level": "high",
+    "word": "absorb",
+    "meaning": "흡수하다, 열중하다"
+  },
+  {
+    "id": "high-002",
+    "level": "high",
+    "word": "abuse",
+    "meaning": "남용하다, 학대하다"
+  },
+  {
+    "id": "high-003",
+    "level": "high",
+    "word": "accelerate",
+    "meaning": "속도를 더하다"
+  },
+  {
+    "id": "high-004",
+    "level": "high",
+    "word": "accomplish",
+    "meaning": "성취하다"
+  },
+  {
+    "id": "high-005",
+    "level": "high",
+    "word": "accord",
+    "meaning": "일치(하다)"
+  },
+  {
+    "id": "high-006",
+    "level": "high",
+    "word": "account",
+    "meaning": "계산하다, 설명하다"
+  },
+  {
+    "id": "high-007",
+    "level": "high",
+    "word": "accumulate",
+    "meaning": "축적하다"
+  },
+  {
+    "id": "high-008",
+    "level": "high",
+    "word": "accuse",
+    "meaning": "비난하다, 고발하다"
+  },
+  {
+    "id": "high-009",
+    "level": "high",
+    "word": "accustom",
+    "meaning": "익히다, 습관 들이다"
+  },
+  {
+    "id": "high-010",
+    "level": "high",
+    "word": "achieve",
+    "meaning": "성취하다"
+  },
+  {
+    "id": "high-011",
+    "level": "high",
+    "word": "acquire",
+    "meaning": "얻다, 획득하다"
+  },
+  {
+    "id": "high-012",
+    "level": "high",
+    "word": "adapt",
+    "meaning": "적응시키다, 개작하다"
+  },
+  {
+    "id": "high-013",
+    "level": "high",
+    "word": "adjust",
+    "meaning": "적응시키다, 조정하다"
+  },
+  {
+    "id": "high-014",
+    "level": "high",
+    "word": "administer",
+    "meaning": "관리하다, 경영하다"
+  },
+  {
+    "id": "high-015",
+    "level": "high",
+    "word": "admire",
+    "meaning": "감탄하다, 칭찬하다"
+  },
+  {
+    "id": "high-016",
+    "level": "high",
+    "word": "adopt",
+    "meaning": "채용하다, 입양하다"
+  },
+  {
+    "id": "high-017",
+    "level": "high",
+    "word": "advance",
+    "meaning": "전진하다, 진보하다, 승진하다"
+  },
+  {
+    "id": "high-018",
+    "level": "high",
+    "word": "affect",
+    "meaning": "영향을 주다, 감동시키다"
+  },
+  {
+    "id": "high-019",
+    "level": "high",
+    "word": "affirm",
+    "meaning": "긍정하다, 단언하다"
+  },
+  {
+    "id": "high-020",
+    "level": "high",
+    "word": "afford",
+    "meaning": "~할 수(여유가) 있다"
+  },
+  {
+    "id": "high-021",
+    "level": "high",
+    "word": "aid",
+    "meaning": "도와주다"
+  },
+  {
+    "id": "high-022",
+    "level": "high",
+    "word": "aim",
+    "meaning": "겨누다"
+  },
+  {
+    "id": "high-023",
+    "level": "high",
+    "word": "alarm",
+    "meaning": "놀라게 하다"
+  },
+  {
+    "id": "high-024",
+    "level": "high",
+    "word": "allow",
+    "meaning": "허락하다, 참작하다"
+  },
+  {
+    "id": "high-025",
+    "level": "high",
+    "word": "alter",
+    "meaning": "변경하다"
+  },
+  {
+    "id": "high-026",
+    "level": "high",
+    "word": "alternate",
+    "meaning": "교대하다"
+  },
+  {
+    "id": "high-027",
+    "level": "high",
+    "word": "amaze",
+    "meaning": "몹시 놀라게 하다"
+  },
+  {
+    "id": "high-028",
+    "level": "high",
+    "word": "amount",
+    "meaning": "~에 달하다(이르다)"
+  },
+  {
+    "id": "high-029",
+    "level": "high",
+    "word": "amuse",
+    "meaning": "재미나게 하다"
+  },
+  {
+    "id": "high-030",
+    "level": "high",
+    "word": "analyze",
+    "meaning": "분석(분해)하다"
+  },
+  {
+    "id": "high-031",
+    "level": "high",
+    "word": "annoy",
+    "meaning": "괴롭히다"
+  },
+  {
+    "id": "high-032",
+    "level": "high",
+    "word": "anticipate",
+    "meaning": "예상하다"
+  },
+  {
+    "id": "high-033",
+    "level": "high",
+    "word": "apologize",
+    "meaning": "사과(변명)하다"
+  },
+  {
+    "id": "high-034",
+    "level": "high",
+    "word": "appeal",
+    "meaning": "호소하다, 간청하다"
+  },
+  {
+    "id": "high-035",
+    "level": "high",
+    "word": "apply",
+    "meaning": "신청/지원/적용하다"
+  },
+  {
+    "id": "high-036",
+    "level": "high",
+    "word": "appoint",
+    "meaning": "임명(지정)하다"
+  },
+  {
+    "id": "high-037",
+    "level": "high",
+    "word": "appreciate",
+    "meaning": "감사하다, 감상하다, 인정하다"
+  },
+  {
+    "id": "high-038",
+    "level": "high",
+    "word": "apprehend",
+    "meaning": "이해하다, 염려하다"
+  },
+  {
+    "id": "high-039",
+    "level": "high",
+    "word": "approach",
+    "meaning": "접근하다"
+  },
+  {
+    "id": "high-040",
+    "level": "high",
+    "word": "approve",
+    "meaning": "시인하다, 찬성하다"
+  },
+  {
+    "id": "high-041",
+    "level": "high",
+    "word": "argue",
+    "meaning": "논하다, 설득하다"
+  },
+  {
+    "id": "high-042",
+    "level": "high",
+    "word": "arrest",
+    "meaning": "체포하다, 저지하다"
+  },
+  {
+    "id": "high-043",
+    "level": "high",
+    "word": "ascend",
+    "meaning": "올라가다"
+  },
+  {
+    "id": "high-044",
+    "level": "high",
+    "word": "assemble",
+    "meaning": "모이다"
+  },
+  {
+    "id": "high-045",
+    "level": "high",
+    "word": "assert",
+    "meaning": "주장하다, 단언하다"
+  }
+]
