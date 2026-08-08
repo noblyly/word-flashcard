@@ -1,727 +1,782 @@
 [
   {
-    "id": "mid-001",
+    "id": "mid-1-001",
     "level": "middle",
+    "round": 1,
     "present": "be",
     "past": "was/were",
     "pastParticiple": "been",
     "meaning": "~이다"
   },
   {
-    "id": "mid-002",
+    "id": "mid-1-002",
     "level": "middle",
-    "present": "become",
-    "past": "became",
-    "pastParticiple": "become",
-    "meaning": "~이 되다"
-  },
-  {
-    "id": "mid-003",
-    "level": "middle",
+    "round": 1,
     "present": "begin",
     "past": "began",
     "pastParticiple": "begun",
     "meaning": "시작하다"
   },
   {
-    "id": "mid-004",
+    "id": "mid-1-003",
     "level": "middle",
+    "round": 1,
     "present": "bend",
     "past": "bent",
     "pastParticiple": "bent",
     "meaning": "구부리다"
   },
   {
-    "id": "mid-005",
+    "id": "mid-1-004",
     "level": "middle",
+    "round": 1,
     "present": "bite",
     "past": "bit",
     "pastParticiple": "bitten",
     "meaning": "물다"
   },
   {
-    "id": "mid-006",
+    "id": "mid-1-005",
     "level": "middle",
+    "round": 1,
     "present": "blow",
     "past": "blew",
     "pastParticiple": "blown",
     "meaning": "(바람이)불다"
   },
   {
-    "id": "mid-007",
+    "id": "mid-1-006",
     "level": "middle",
+    "round": 1,
     "present": "break",
     "past": "broke",
     "pastParticiple": "broken",
     "meaning": "깨뜨리다"
   },
   {
-    "id": "mid-008",
+    "id": "mid-1-007",
     "level": "middle",
+    "round": 1,
     "present": "bring",
     "past": "brought",
     "pastParticiple": "brought",
     "meaning": "가져오다"
   },
   {
-    "id": "mid-009",
+    "id": "mid-1-008",
     "level": "middle",
+    "round": 1,
     "present": "build",
     "past": "built",
     "pastParticiple": "built",
     "meaning": "짓다"
   },
   {
-    "id": "mid-010",
+    "id": "mid-1-009",
     "level": "middle",
+    "round": 1,
     "present": "buy",
     "past": "bought",
     "pastParticiple": "bought",
     "meaning": "사다"
   },
   {
-    "id": "mid-011",
+    "id": "mid-1-010",
     "level": "middle",
+    "round": 1,
     "present": "catch",
     "past": "caught",
     "pastParticiple": "caught",
     "meaning": "잡다"
   },
   {
-    "id": "mid-012",
+    "id": "mid-1-011",
     "level": "middle",
+    "round": 1,
     "present": "choose",
     "past": "chose",
     "pastParticiple": "chosen",
     "meaning": "고르다"
   },
   {
-    "id": "mid-013",
+    "id": "mid-1-012",
     "level": "middle",
+    "round": 1,
     "present": "come",
     "past": "came",
     "pastParticiple": "come",
     "meaning": "오다"
   },
   {
-    "id": "mid-014",
+    "id": "mid-1-013",
     "level": "middle",
+    "round": 1,
     "present": "cost",
     "past": "cost",
     "pastParticiple": "cost",
     "meaning": "비용이 들다"
   },
   {
-    "id": "mid-015",
+    "id": "mid-1-014",
     "level": "middle",
+    "round": 1,
     "present": "cut",
     "past": "cut",
     "pastParticiple": "cut",
     "meaning": "자르다"
   },
   {
-    "id": "mid-016",
+    "id": "mid-1-015",
     "level": "middle",
+    "round": 1,
     "present": "dig",
     "past": "dug",
     "pastParticiple": "dug",
     "meaning": "파다"
   },
   {
-    "id": "mid-017",
+    "id": "mid-1-016",
     "level": "middle",
+    "round": 1,
     "present": "do",
     "past": "did",
     "pastParticiple": "done",
     "meaning": "하다"
   },
   {
-    "id": "mid-018",
+    "id": "mid-1-017",
     "level": "middle",
+    "round": 1,
     "present": "draw",
     "past": "drew",
     "pastParticiple": "drawn",
     "meaning": "선을 긋다"
   },
   {
-    "id": "mid-019",
+    "id": "mid-1-018",
     "level": "middle",
+    "round": 1,
     "present": "drink",
     "past": "drank",
     "pastParticiple": "drunk",
     "meaning": "마시다"
   },
   {
-    "id": "mid-020",
+    "id": "mid-1-019",
     "level": "middle",
+    "round": 1,
     "present": "drive",
     "past": "drove",
     "pastParticiple": "driven",
     "meaning": "운전하다"
   },
   {
-    "id": "mid-021",
+    "id": "mid-1-020",
     "level": "middle",
+    "round": 1,
     "present": "eat",
     "past": "ate",
     "pastParticiple": "eaten",
     "meaning": "먹다"
   },
   {
-    "id": "mid-022",
+    "id": "mid-1-021",
     "level": "middle",
+    "round": 1,
     "present": "fall",
     "past": "fell",
     "pastParticiple": "fallen",
     "meaning": "떨어지다"
   },
   {
-    "id": "mid-023",
+    "id": "mid-1-022",
     "level": "middle",
+    "round": 1,
     "present": "feed",
     "past": "fed",
     "pastParticiple": "fed",
     "meaning": "먹이다"
   },
   {
-    "id": "mid-024",
+    "id": "mid-1-023",
     "level": "middle",
+    "round": 1,
     "present": "feel",
     "past": "felt",
     "pastParticiple": "felt",
     "meaning": "느끼다"
   },
   {
-    "id": "mid-025",
+    "id": "mid-1-024",
     "level": "middle",
+    "round": 1,
     "present": "fight",
     "past": "fought",
     "pastParticiple": "fought",
     "meaning": "싸우다"
   },
   {
-    "id": "mid-026",
+    "id": "mid-1-025",
     "level": "middle",
+    "round": 1,
     "present": "find",
     "past": "found",
     "pastParticiple": "found",
     "meaning": "찾다"
   },
   {
-    "id": "mid-027",
+    "id": "mid-1-026",
     "level": "middle",
+    "round": 1,
     "present": "fit",
     "past": "fit",
     "pastParticiple": "fit",
     "meaning": "(치수가)맞다"
   },
   {
-    "id": "mid-028",
+    "id": "mid-1-027",
     "level": "middle",
+    "round": 1,
     "present": "fly",
     "past": "flew",
     "pastParticiple": "flown",
     "meaning": "날다"
   },
   {
-    "id": "mid-029",
+    "id": "mid-1-028",
     "level": "middle",
-    "present": "forget",
-    "past": "forgot",
-    "pastParticiple": "forgotten",
-    "meaning": "잊다"
-  },
-  {
-    "id": "mid-030",
-    "level": "middle",
-    "present": "forgive",
-    "past": "forgave",
-    "pastParticiple": "forgiven",
-    "meaning": "용서하다"
-  },
-  {
-    "id": "mid-031",
-    "level": "middle",
+    "round": 1,
     "present": "get",
     "past": "got",
     "pastParticiple": "gotten",
     "meaning": "얻다"
   },
   {
-    "id": "mid-032",
+    "id": "mid-1-029",
     "level": "middle",
+    "round": 1,
     "present": "give",
     "past": "gave",
     "pastParticiple": "given",
     "meaning": "주다"
   },
   {
-    "id": "mid-033",
+    "id": "mid-1-030",
     "level": "middle",
+    "round": 1,
     "present": "go",
     "past": "went",
     "pastParticiple": "gone",
     "meaning": "가다"
   },
   {
-    "id": "mid-034",
+    "id": "mid-1-031",
     "level": "middle",
+    "round": 1,
     "present": "grow",
     "past": "grew",
     "pastParticiple": "grown",
     "meaning": "자라다"
   },
   {
-    "id": "mid-035",
+    "id": "mid-1-032",
     "level": "middle",
+    "round": 1,
     "present": "hang",
     "past": "hung",
     "pastParticiple": "hung",
     "meaning": "걸다"
   },
   {
-    "id": "mid-036",
+    "id": "mid-1-033",
     "level": "middle",
+    "round": 1,
     "present": "have",
     "past": "had",
     "pastParticiple": "had",
     "meaning": "가지다"
   },
   {
-    "id": "mid-037",
+    "id": "mid-1-034",
     "level": "middle",
+    "round": 1,
     "present": "hear",
     "past": "heard",
     "pastParticiple": "heard",
     "meaning": "듣다"
   },
   {
-    "id": "mid-038",
+    "id": "mid-1-035",
     "level": "middle",
+    "round": 1,
     "present": "hide",
     "past": "hid",
     "pastParticiple": "hidden",
     "meaning": "숨기다"
   },
   {
-    "id": "mid-039",
+    "id": "mid-1-036",
     "level": "middle",
+    "round": 1,
     "present": "hit",
     "past": "hit",
     "pastParticiple": "hit",
     "meaning": "치다"
   },
   {
-    "id": "mid-040",
+    "id": "mid-1-037",
     "level": "middle",
+    "round": 1,
     "present": "hold",
     "past": "held",
     "pastParticiple": "held",
     "meaning": "잡다"
   },
   {
-    "id": "mid-041",
+    "id": "mid-1-038",
     "level": "middle",
+    "round": 1,
     "present": "hurt",
     "past": "hurt",
     "pastParticiple": "hurt",
     "meaning": "다치다"
   },
   {
-    "id": "mid-042",
+    "id": "mid-1-039",
     "level": "middle",
+    "round": 1,
     "present": "keep",
     "past": "kept",
     "pastParticiple": "kept",
     "meaning": "지키다"
   },
   {
-    "id": "mid-043",
+    "id": "mid-1-040",
     "level": "middle",
+    "round": 1,
     "present": "know",
     "past": "knew",
     "pastParticiple": "known",
     "meaning": "알다"
   },
   {
-    "id": "mid-044",
+    "id": "mid-1-041",
     "level": "middle",
+    "round": 1,
     "present": "lay",
     "past": "laid",
     "pastParticiple": "laid",
     "meaning": "놓다"
   },
   {
-    "id": "mid-045",
+    "id": "mid-1-042",
     "level": "middle",
+    "round": 1,
     "present": "lead",
     "past": "led",
     "pastParticiple": "led",
     "meaning": "이끌다"
   },
   {
-    "id": "mid-046",
+    "id": "mid-1-043",
     "level": "middle",
+    "round": 1,
     "present": "leave",
     "past": "left",
     "pastParticiple": "left",
     "meaning": "떠나다"
   },
   {
-    "id": "mid-047",
+    "id": "mid-1-044",
     "level": "middle",
+    "round": 1,
     "present": "lend",
     "past": "lent",
     "pastParticiple": "lent",
     "meaning": "빌려주다"
   },
   {
-    "id": "mid-048",
+    "id": "mid-1-045",
     "level": "middle",
+    "round": 1,
     "present": "let",
     "past": "let",
     "pastParticiple": "let",
     "meaning": "~하게 두다"
   },
   {
-    "id": "mid-049",
+    "id": "mid-1-046",
     "level": "middle",
+    "round": 1,
     "present": "lie",
     "past": "lay",
     "pastParticiple": "lain",
     "meaning": "위치하다"
   },
   {
-    "id": "mid-050",
+    "id": "mid-1-047",
     "level": "middle",
+    "round": 1,
     "present": "light",
     "past": "lit",
     "pastParticiple": "lit",
     "meaning": "불을 붙이다"
   },
   {
-    "id": "mid-051",
+    "id": "mid-1-048",
     "level": "middle",
+    "round": 1,
     "present": "lose",
     "past": "lost",
     "pastParticiple": "lost",
     "meaning": "잃다"
   },
   {
-    "id": "mid-052",
+    "id": "mid-1-049",
     "level": "middle",
+    "round": 1,
     "present": "make",
     "past": "made",
     "pastParticiple": "made",
     "meaning": "만들다"
   },
   {
-    "id": "mid-053",
+    "id": "mid-1-050",
     "level": "middle",
+    "round": 1,
     "present": "mean",
     "past": "meant",
     "pastParticiple": "meant",
     "meaning": "의미하다"
   },
   {
-    "id": "mid-054",
+    "id": "mid-1-051",
     "level": "middle",
+    "round": 1,
     "present": "meet",
     "past": "met",
     "pastParticiple": "met",
     "meaning": "만나다"
   },
   {
-    "id": "mid-055",
+    "id": "mid-1-052",
     "level": "middle",
+    "round": 1,
     "present": "pay",
     "past": "paid",
     "pastParticiple": "paid",
     "meaning": "지불하다"
   },
   {
-    "id": "mid-056",
+    "id": "mid-1-053",
     "level": "middle",
+    "round": 1,
     "present": "put",
     "past": "put",
     "pastParticiple": "put",
     "meaning": "놓다/두다"
   },
   {
-    "id": "mid-057",
+    "id": "mid-1-054",
     "level": "middle",
+    "round": 1,
     "present": "quit",
     "past": "quit",
     "pastParticiple": "quit",
     "meaning": "그만두다"
   },
   {
-    "id": "mid-058",
+    "id": "mid-1-055",
     "level": "middle",
+    "round": 1,
     "present": "read",
     "past": "read",
     "pastParticiple": "read",
     "meaning": "(글을)읽다"
   },
   {
-    "id": "mid-059",
+    "id": "mid-1-056",
     "level": "middle",
+    "round": 1,
     "present": "ride",
     "past": "rode",
     "pastParticiple": "ridden",
     "meaning": "~을 타다"
   },
   {
-    "id": "mid-060",
+    "id": "mid-1-057",
     "level": "middle",
+    "round": 1,
     "present": "ring",
     "past": "rang",
     "pastParticiple": "rung",
     "meaning": "(벨이)울리다"
   },
   {
-    "id": "mid-061",
+    "id": "mid-1-058",
     "level": "middle",
+    "round": 1,
     "present": "rise",
     "past": "rose",
     "pastParticiple": "risen",
     "meaning": "떠오르다"
   },
   {
-    "id": "mid-062",
+    "id": "mid-1-059",
     "level": "middle",
+    "round": 1,
     "present": "run",
     "past": "ran",
     "pastParticiple": "run",
     "meaning": "달리다"
   },
   {
-    "id": "mid-063",
+    "id": "mid-1-060",
     "level": "middle",
+    "round": 1,
     "present": "say",
     "past": "said",
     "pastParticiple": "said",
     "meaning": "말하다"
   },
   {
-    "id": "mid-064",
+    "id": "mid-1-061",
     "level": "middle",
+    "round": 1,
     "present": "see",
     "past": "saw",
     "pastParticiple": "seen",
     "meaning": "보다"
   },
   {
-    "id": "mid-065",
+    "id": "mid-1-062",
     "level": "middle",
+    "round": 1,
     "present": "sell",
     "past": "sold",
     "pastParticiple": "sold",
     "meaning": "팔다"
   },
   {
-    "id": "mid-066",
+    "id": "mid-1-063",
     "level": "middle",
+    "round": 1,
     "present": "send",
     "past": "sent",
     "pastParticiple": "sent",
     "meaning": "보내다"
   },
   {
-    "id": "mid-067",
+    "id": "mid-1-064",
     "level": "middle",
+    "round": 1,
     "present": "set",
     "past": "set",
     "pastParticiple": "set",
     "meaning": "정하다"
   },
   {
-    "id": "mid-068",
+    "id": "mid-1-065",
     "level": "middle",
+    "round": 1,
     "present": "shake",
     "past": "shook",
     "pastParticiple": "shaken",
     "meaning": "흔들다"
   },
   {
-    "id": "mid-069",
+    "id": "mid-1-066",
     "level": "middle",
+    "round": 1,
     "present": "shoot",
     "past": "shot",
     "pastParticiple": "shot",
     "meaning": "쏘다"
   },
   {
-    "id": "mid-070",
+    "id": "mid-1-067",
     "level": "middle",
+    "round": 1,
     "present": "show",
     "past": "showed",
     "pastParticiple": "shown",
     "meaning": "보여주다"
   },
   {
-    "id": "mid-071",
+    "id": "mid-1-068",
     "level": "middle",
+    "round": 1,
     "present": "shut",
     "past": "shut",
     "pastParticiple": "shut",
     "meaning": "닫다"
   },
   {
-    "id": "mid-072",
+    "id": "mid-1-069",
     "level": "middle",
+    "round": 1,
     "present": "sing",
     "past": "sang",
     "pastParticiple": "sung",
     "meaning": "노래하다"
   },
   {
-    "id": "mid-073",
+    "id": "mid-1-070",
     "level": "middle",
+    "round": 1,
     "present": "sit",
     "past": "sat",
     "pastParticiple": "sat",
     "meaning": "앉다"
   },
   {
-    "id": "mid-074",
+    "id": "mid-1-071",
     "level": "middle",
+    "round": 1,
     "present": "sleep",
     "past": "slept",
     "pastParticiple": "slept",
     "meaning": "잠자다"
   },
   {
-    "id": "mid-075",
+    "id": "mid-1-072",
     "level": "middle",
+    "round": 1,
     "present": "speak",
     "past": "spoke",
     "pastParticiple": "spoken",
     "meaning": "말하다"
   },
   {
-    "id": "mid-076",
+    "id": "mid-1-073",
     "level": "middle",
+    "round": 1,
     "present": "spend",
     "past": "spent",
     "pastParticiple": "spent",
     "meaning": "보내다"
   },
   {
-    "id": "mid-077",
+    "id": "mid-1-074",
     "level": "middle",
+    "round": 1,
     "present": "stand",
     "past": "stood",
     "pastParticiple": "stood",
     "meaning": "서있다"
   },
   {
-    "id": "mid-078",
+    "id": "mid-1-075",
     "level": "middle",
+    "round": 1,
     "present": "steal",
     "past": "stole",
     "pastParticiple": "stolen",
     "meaning": "훔치다"
   },
   {
-    "id": "mid-079",
+    "id": "mid-1-076",
     "level": "middle",
+    "round": 1,
     "present": "strike",
     "past": "struck",
     "pastParticiple": "struck",
     "meaning": "때리다"
   },
   {
-    "id": "mid-080",
+    "id": "mid-1-077",
     "level": "middle",
+    "round": 1,
     "present": "sweep",
     "past": "swept",
     "pastParticiple": "swept",
     "meaning": "청소하다"
   },
   {
-    "id": "mid-081",
+    "id": "mid-1-078",
     "level": "middle",
+    "round": 1,
     "present": "swim",
     "past": "swam",
     "pastParticiple": "swum",
     "meaning": "수영하다"
   },
   {
-    "id": "mid-082",
+    "id": "mid-1-079",
     "level": "middle",
+    "round": 1,
     "present": "take",
     "past": "took",
     "pastParticiple": "taken",
     "meaning": "잡다"
   },
   {
-    "id": "mid-083",
+    "id": "mid-1-080",
     "level": "middle",
+    "round": 1,
     "present": "teach",
     "past": "taught",
     "pastParticiple": "taught",
     "meaning": "가르치다"
   },
   {
-    "id": "mid-084",
+    "id": "mid-1-081",
     "level": "middle",
+    "round": 1,
     "present": "tell",
     "past": "told",
     "pastParticiple": "told",
     "meaning": "말하다"
   },
   {
-    "id": "mid-085",
+    "id": "mid-1-082",
     "level": "middle",
+    "round": 1,
     "present": "think",
     "past": "thought",
     "pastParticiple": "thought",
     "meaning": "생각하다"
   },
   {
-    "id": "mid-086",
+    "id": "mid-1-083",
     "level": "middle",
+    "round": 1,
     "present": "throw",
     "past": "threw",
     "pastParticiple": "thrown",
     "meaning": "던지다"
   },
   {
-    "id": "mid-087",
+    "id": "mid-1-084",
     "level": "middle",
-    "present": "understand",
-    "past": "understood",
-    "pastParticiple": "understood",
-    "meaning": "이해하다"
-  },
-  {
-    "id": "mid-088",
-    "level": "middle",
+    "round": 1,
     "present": "wake",
     "past": "woke",
     "pastParticiple": "woken",
     "meaning": "깨어나다"
   },
   {
-    "id": "mid-089",
+    "id": "mid-1-085",
     "level": "middle",
+    "round": 1,
     "present": "wear",
     "past": "wore",
     "pastParticiple": "worn",
     "meaning": "옷을 입다"
   },
   {
-    "id": "mid-090",
+    "id": "mid-1-086",
     "level": "middle",
+    "round": 1,
     "present": "win",
     "past": "won",
     "pastParticiple": "won",
     "meaning": "이기다"
   },
   {
-    "id": "mid-091",
+    "id": "mid-1-087",
     "level": "middle",
+    "round": 1,
     "present": "write",
     "past": "wrote",
     "pastParticiple": "written",

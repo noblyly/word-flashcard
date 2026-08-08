@@ -3,10 +3,12 @@
 // ────────────────────────────────────────────────────────────
 
 const app = document.getElementById('app');
+const TEST_LIMIT = 30;
 
 const state = {
   screen: 'loading',      // loading | home | study | study-done | test | result
   level: 'middle',        // middle | high
+  round: 1,
   words: { middle: [], high: [] },
   progress: new Map(),    // word_id -> {status, wrong_count, last_reviewed_at}
   syncCode: null,
@@ -14,6 +16,7 @@ const state = {
   settingsOpen: false,
   study: null,
   test: null,
+  resumePrompt: null,     // {type, level, round, mode, saved}
 };
 
 // ── 동기화 코드 ──────────────────────────────────────────────
@@ -43,10 +46,7 @@ function isSupabaseConfigured() {
 async function fetchCloudProgress(syncCode) {
   const url = `${SUPABASE_URL}/rest/v1/progress?sync_code=eq.${encodeURIComponent(syncCode)}&select=word_id,status,wrong_count,last_reviewed_at`;
   const res = await fetch(url, {
-    headers: {
-      apikey: SUPABASE_ANON_KEY,
-      Authorization: `Bearer ${SUPABASE_ANON_KEY}`,
-    },
+    headers: { apikey: SUPABASE_ANON_KEY, Authorization: `Bearer ${SUPABASE_ANON_KEY}` },
   });
   if (!res.ok) throw new Error('fetch failed');
   return res.json();
@@ -67,7 +67,7 @@ async function pushCloudProgress(record) {
   if (!res.ok) throw new Error('push failed');
 }
 
-// ── 로컬 캐시 ────────────────────────────────────────────────
+// ── 로컬 캐시 (진행 상황: 안다/모른다) ─────────────────────────
 function localCacheKey() {
   return `progress_cache_${state.syncCode}`;
 }
@@ -102,11 +102,40 @@ function updateProgress(wordId, isKnown) {
       wrong_count: record.wrong_count,
       last_reviewed_at: record.last_reviewed_at,
       updated_at: new Date().toISOString(),
-    }).catch(() => {
-      state.cloudReady = false;
-      renderTopWarningIfNeeded();
-    });
+    }).catch(() => { state.cloudReady = false; });
   }
+}
+
+// ── 세션 저장 (학습/테스트 진행 중이던 위치) ───────────────────
+function sessionKey(type, level, round, mode) {
+  return `session_${type}_${level}_${round}_${mode || 'x'}`;
+}
+function saveSession() {
+  if (state.screen === 'study' && state.study) {
+    const s = state.study;
+    const key = sessionKey('study', state.level, state.round);
+    localStorage.setItem(key, JSON.stringify({
+      queueIds: s.queue.map((w) => w.id),
+      index: s.index,
+    }));
+  } else if (state.screen === 'test' && state.test && !state.test.empty) {
+    const t = state.test;
+    const key = sessionKey('test', t.level, t.round, t.mode);
+    localStorage.setItem(key, JSON.stringify({
+      items: t.queue.map((q) => ({ id: q.word.id, direction: q.direction })),
+      index: t.index,
+      correct: t.correct,
+      wrong: t.wrong,
+    }));
+  }
+}
+function clearSession(type, level, round, mode) {
+  localStorage.removeItem(sessionKey(type, level, round, mode));
+}
+function loadSession(type, level, round, mode) {
+  const raw = localStorage.getItem(sessionKey(type, level, round, mode));
+  if (!raw) return null;
+  try { return JSON.parse(raw); } catch (e) { return null; }
 }
 
 // ── 초기화 ───────────────────────────────────────────────────
@@ -120,6 +149,7 @@ async function init() {
   ]);
   state.words.middle = middle;
   state.words.high = high;
+  state.round = getRounds('middle')[0] || 1;
 
   loadLocalCache();
 
@@ -164,16 +194,32 @@ function speak(text) {
   u.rate = 0.85;
   window.speechSynthesis.speak(u);
 }
-function unknownCount(level) {
-  return state.words[level].filter((w) => (state.progress.get(w.id) || {}).status === 'unknown').length;
+function getRounds(level) {
+  return [...new Set(state.words[level].map((w) => w.round))].sort((a, b) => a - b);
+}
+function wordsFor(level, round) {
+  return state.words[level].filter((w) => w.round === round);
+}
+function unknownCount(level, round) {
+  return wordsFor(level, round).filter((w) => (state.progress.get(w.id) || {}).status === 'unknown').length;
+}
+function findWord(level, id) {
+  return state.words[level].find((w) => w.id === id);
 }
 
 // ── 화면 전환 ────────────────────────────────────────────────
 function setLevel(level) {
   state.level = level;
+  const rounds = getRounds(level);
+  if (!rounds.includes(state.round)) state.round = rounds[0] || 1;
+  render();
+}
+function setRound(round) {
+  state.round = round;
   render();
 }
 function goHome() {
+  saveSession();
   state.screen = 'home';
   state.study = null;
   state.test = null;
@@ -187,13 +233,31 @@ function toggleSettings(open) {
 // ═══════════════════════════════════════════════════════════
 // 학습모드
 // ═══════════════════════════════════════════════════════════
-function startStudy(level) {
-  const queue = shuffle(state.words[level]);
+function startStudy(level, round) {
+  const saved = loadSession('study', level, round);
+  if (saved && saved.index < saved.queueIds.length) {
+    state.resumePrompt = { type: 'study', level, round, mode: null, saved };
+    render();
+    return;
+  }
+  beginStudy(level, round, null);
+}
+function beginStudy(level, round, resumeData) {
+  state.resumePrompt = null;
+  let queue;
+  let startIndex = 0;
+  if (resumeData) {
+    queue = resumeData.queueIds.map((id) => findWord(level, id)).filter(Boolean);
+    startIndex = resumeData.index;
+  } else {
+    queue = shuffle(wordsFor(level, round));
+  }
   if (queue.length === 0) return;
   state.level = level;
+  state.round = round;
   state.study = {
     queue,
-    index: 0,
+    index: startIndex,
     flipped: false,
     direction: Math.random() < 0.5 ? 'word' : 'meaning',
   };
@@ -211,7 +275,9 @@ function studyMark(isKnown) {
 }
 function studyAdvance() {
   state.study.index++;
+  saveSession();
   if (state.study.index >= state.study.queue.length) {
+    clearSession('study', state.level, state.round);
     state.screen = 'study-done';
   } else {
     state.study.flipped = false;
@@ -224,34 +290,51 @@ function studySkip() {
 }
 
 // ═══════════════════════════════════════════════════════════
-// 테스트모드 (전체 / 모르는것)
+// 테스트모드 (전체 / 모르는것) - 최대 30문제
 // ═══════════════════════════════════════════════════════════
-function startTest(level, mode) {
-  let pool = state.words[level];
-  if (mode === 'unknown') {
-    pool = pool.filter((w) => (state.progress.get(w.id) || {}).status === 'unknown');
-  }
-  state.level = level;
-  if (pool.length === 0) {
-    state.test = { level, mode, queue: [], index: 0, correct: 0, wrong: 0, empty: true };
-    state.screen = 'test';
+function startTest(level, round, mode) {
+  const saved = loadSession('test', level, round, mode);
+  if (saved && saved.index < saved.items.length) {
+    state.resumePrompt = { type: 'test', level, round, mode, saved };
     render();
     return;
   }
-  const queue = shuffle(pool).map((w) => ({
-    word: w,
-    direction: Math.random() < 0.5 ? 'w2m' : 'm2w', // 고등영어에서만 사용
-  }));
+  beginTest(level, round, mode, null);
+}
+function beginTest(level, round, mode, resumeData) {
+  state.resumePrompt = null;
+  state.level = level;
+  state.round = round;
+
+  let queue;
+  if (resumeData) {
+    queue = resumeData.items
+      .map((it) => ({ word: findWord(level, it.id), direction: it.direction }))
+      .filter((q) => q.word);
+  } else {
+    let pool = wordsFor(level, round);
+    if (mode === 'unknown') {
+      pool = pool.filter((w) => (state.progress.get(w.id) || {}).status === 'unknown');
+    }
+    if (pool.length === 0) {
+      state.test = { level, round, mode, queue: [], index: 0, correct: 0, wrong: 0, empty: true };
+      state.screen = 'test';
+      render();
+      return;
+    }
+    queue = shuffle(pool)
+      .slice(0, TEST_LIMIT)
+      .map((w) => ({ word: w, direction: Math.random() < 0.5 ? 'w2m' : 'm2w' }));
+  }
+
   state.test = {
-    level,
-    mode,
-    queue,
-    index: 0,
-    correct: 0,
-    wrong: 0,
+    level, round, mode, queue,
+    index: resumeData ? resumeData.index : 0,
+    correct: resumeData ? resumeData.correct : 0,
+    wrong: resumeData ? resumeData.wrong : 0,
     answered: false,
     lastCorrect: null,
-    inputs: {},
+    fieldResult: {},
     empty: false,
   };
   state.screen = 'test';
@@ -290,6 +373,7 @@ function checkAnswer() {
   else t.wrong++;
 
   updateProgress(w.id, isCorrect);
+  saveSession();
   render();
 }
 
@@ -298,10 +382,26 @@ function nextQuestion() {
   t.index++;
   t.answered = false;
   t.fieldResult = {};
+  saveSession();
   if (t.index >= t.queue.length) {
+    clearSession('test', t.level, t.round, t.mode);
     state.screen = 'result';
   }
   render();
+}
+
+// ── 이어서하기 / 새로하기 ────────────────────────────────────
+function resumeChoice(action) {
+  const p = state.resumePrompt;
+  if (!p) return;
+  if (action === 'resume') {
+    if (p.type === 'study') beginStudy(p.level, p.round, p.saved);
+    else beginTest(p.level, p.round, p.mode, p.saved);
+  } else {
+    clearSession(p.type, p.level, p.round, p.mode);
+    if (p.type === 'study') beginStudy(p.level, p.round, null);
+    else beginTest(p.level, p.round, p.mode, null);
+  }
 }
 
 // ── 설정: 동기화 코드 변경 ───────────────────────────────────
@@ -352,6 +452,7 @@ function render() {
       <button class="level-tab ${state.level === 'middle' ? 'active' : ''}" onclick="setLevel('middle')">중등영어</button>
       <button class="level-tab ${state.level === 'high' ? 'active' : ''}" onclick="setLevel('high')">고등영어</button>
     </div>
+    ${state.screen === 'home' ? renderRoundTabs() : ''}
   `;
 
   let body = '';
@@ -361,36 +462,47 @@ function render() {
   else if (state.screen === 'test') body = renderTest();
   else if (state.screen === 'result') body = renderResult();
 
-  app.innerHTML = topbar + body + (state.settingsOpen ? renderSettingsSheet() : '');
+  app.innerHTML = topbar + body
+    + (state.settingsOpen ? renderSettingsSheet() : '')
+    + (state.resumePrompt ? renderResumeSheet() : '');
 
   if (state.screen === 'study') attachSwipeHandlers();
 }
 
-function renderTopWarningIfNeeded() {
-  // cloud 저장 실패 시 다음 렌더에서 설정 시트에 표시됨 (별도 처리 불필요)
+function renderRoundTabs() {
+  const rounds = getRounds(state.level);
+  if (rounds.length <= 1) return '';
+  return `
+    <div class="round-tabs">
+      ${rounds.map((r) => `
+        <button class="round-tab ${r === state.round ? 'active' : ''}" onclick="setRound(${r})">${r}회</button>
+      `).join('')}
+    </div>
+  `;
 }
 
 function renderHome() {
   const level = state.level;
-  const total = state.words[level].length;
-  const unknown = unknownCount(level);
+  const round = state.round;
+  const total = wordsFor(level, round).length;
+  const unknown = unknownCount(level, round);
   return `
     <div class="screen">
-      <div class="section-label">${level === 'middle' ? '중등영어 · 현재형/과거형/과거분사' : '고등영어 · 단어와 뜻'}</div>
+      <div class="section-label">${state.round}회 · ${level === 'middle' ? '중등영어 · 현재형/과거형/과거분사' : '고등영어 · 단어와 뜻'}</div>
       <div class="mode-list">
-        <button class="mode-card" onclick="startStudy('${level}')">
+        <button class="mode-card" onclick="startStudy('${level}',${round})">
           <div class="title">📖 학습모드</div>
           <div class="desc">카드를 넘기며 외우고, 모르는 단어를 체크해요</div>
-          <div class="count">전체 ${total}개</div>
+          <div class="count">${round}회 전체 ${total}개</div>
         </button>
-        <button class="mode-card" onclick="startTest('${level}','all')">
+        <button class="mode-card" onclick="startTest('${level}',${round},'all')">
           <div class="title">✍️ 전체테스트모드</div>
-          <div class="desc">전체 단어를 직접 타이핑해서 테스트해요</div>
-          <div class="count">전체 ${total}개</div>
+          <div class="desc">직접 타이핑해서 테스트해요 (최대 ${TEST_LIMIT}문제)</div>
+          <div class="count">${round}회 전체 ${total}개</div>
         </button>
-        <button class="mode-card" onclick="startTest('${level}','unknown')">
+        <button class="mode-card" onclick="startTest('${level}',${round},'unknown')">
           <div class="title">🎯 모르는것테스트모드</div>
-          <div class="desc">학습모드에서 체크한 단어만 집중 테스트해요</div>
+          <div class="desc">체크한 단어만 집중 테스트해요 (최대 ${TEST_LIMIT}문제)</div>
           <div class="count">모르는 단어 ${unknown}개</div>
         </button>
       </div>
@@ -398,10 +510,20 @@ function renderHome() {
   `;
 }
 
+function renderInSessionHeader(index, totalLen, extra) {
+  const pct = Math.round((index / totalLen) * 100);
+  return `
+    <div class="session-header">
+      <button class="home-btn" onclick="goHome()">← 그만하기</button>
+      <div class="section-label">${index + 1} / ${totalLen}${extra ? ' · ' + extra : ''}</div>
+    </div>
+    <div class="progress-bar-wrap"><div class="progress-bar-fill" style="width:${pct}%"></div></div>
+  `;
+}
+
 function renderStudy() {
   const s = state.study;
   const w = s.queue[s.index];
-  const pct = Math.round((s.index / s.queue.length) * 100);
   const isMiddle = state.level === 'middle';
 
   let front, speakText;
@@ -439,8 +561,7 @@ function renderStudy() {
 
   return `
     <div class="screen">
-      <div class="progress-bar-wrap"><div class="progress-bar-fill" style="width:${pct}%"></div></div>
-      <div class="section-label">${s.index + 1} / ${s.queue.length}</div>
+      ${renderInSessionHeader(s.index, s.queue.length)}
       <div class="card-stage">
         <div class="flashcard" onclick="${s.flipped ? '' : 'flipCard()'}">
           <div class="eyebrow">${s.direction === 'word' ? '이 단어의 뜻은?' : '이 뜻의 영어 단어는?'}</div>
@@ -487,7 +608,6 @@ function renderTest() {
   const q = t.queue[t.index];
   const w = q.word;
   const isMiddle = t.level === 'middle';
-  const pct = Math.round((t.index / t.queue.length) * 100);
 
   let promptHtml, fieldsHtml, feedbackHtml = '';
 
@@ -535,8 +655,7 @@ function renderTest() {
 
   return `
     <div class="screen">
-      <div class="progress-bar-wrap"><div class="progress-bar-fill" style="width:${pct}%"></div></div>
-      <div class="section-label">${t.index + 1} / ${t.queue.length} · 맞음 ${t.correct} · 틀림 ${t.wrong}</div>
+      ${renderInSessionHeader(t.index, t.queue.length, `맞음 ${t.correct} · 틀림 ${t.wrong}`)}
       <div class="test-prompt">${promptHtml}</div>
       ${fieldsHtml}
       ${feedbackHtml}
@@ -556,10 +675,10 @@ function renderResult() {
         <div class="big-num">${t.correct} / ${total}</div>
         <div class="label">맞음 ${t.correct}개 · 틀림 ${t.wrong}개</div>
       </div>
-      <button class="secondary-btn" onclick="startTest(t.level,t.mode)">다시 풀기</button>
+      <button class="secondary-btn" onclick="startTest('${t.level}',${t.round},'${t.mode}')">다시 풀기</button>
       <button class="primary-btn" onclick="goHome()">홈으로</button>
     </div>
-  `.replace(/t\.level/g, `'${t.level}'`).replace(/t\.mode/g, `'${t.mode}'`);
+  `;
 }
 
 function renderSettingsSheet() {
@@ -584,6 +703,22 @@ function renderSettingsSheet() {
   `;
 }
 
+function renderResumeSheet() {
+  const p = state.resumePrompt;
+  const doneCount = p.saved.index;
+  const totalCount = p.type === 'study' ? p.saved.queueIds.length : p.saved.items.length;
+  return `
+    <div class="sheet-backdrop">
+      <div class="sheet">
+        <h3>이어서 할까요?</h3>
+        <div class="status-line">저번에 ${doneCount} / ${totalCount}개까지 진행했어요.</div>
+        <button class="primary-btn" onclick="resumeChoice('resume')">이어서하기</button>
+        <button class="secondary-btn" onclick="resumeChoice('new')">새로하기</button>
+      </div>
+    </div>
+  `;
+}
+
 // ── 스와이프 (학습모드 카드 넘기기) ───────────────────────────
 function attachSwipeHandlers() {
   const stage = document.querySelector('.card-stage');
@@ -593,7 +728,6 @@ function attachSwipeHandlers() {
   stage.addEventListener('touchend', (e) => {
     const dx = e.changedTouches[0].clientX - startX;
     if (Math.abs(dx) > 60 && state.study.flipped) {
-      // 왼쪽/오른쪽 스와이프 모두 다음 카드로 (건너뛰기와 동일)
       studySkip();
     }
   }, { passive: true });
