@@ -6,7 +6,8 @@
     "present": "be",
     "past": "was/were",
     "pastParticiple": "been",
-    "meaning": "~이다"
+    "meaning": "~이다",
+    "type": "verb3"
   },
   {
     "id": "mid-1-002",
@@ -15,7 +16,8 @@
     "present": "begin",
     "past": "began",
     "pastParticiple": "begun",
-    "meaning": "시작하다"
+    "meaning": "시작하다",
+    "type": "verb3"
   },
   {
     "id": "mid-1-003",
@@ -24,7 +26,8 @@
     "present": "bend",
     "past": "bent",
     "pastParticiple": "bent",
-    "meaning": "구부리다"
+    "meaning": "구부리다",
+    "type": "verb3"
   },
   {
     "id": "mid-1-004",
@@ -33,7 +36,8 @@
     "present": "bite",
     "past": "bit",
     "pastParticiple": "bitten",
-    "meaning": "물다"
+    "meaning": "물다",
+    "type": "verb3"
   },
   {
     "id": "mid-1-005",
@@ -42,7 +46,8 @@
     "present": "blow",
     "past": "blew",
     "pastParticiple": "blown",
-    "meaning": "(바람이)불다"
+    "meaning": "(바람이)불다",
+    "type": "verb3"
   },
   {
     "id": "mid-1-006",
@@ -51,7 +56,8 @@
     "present": "break",
     "past": "broke",
     "pastParticiple": "broken",
-    "meaning": "깨뜨리다"
+    "meaning": "깨뜨리다",
+    "type": "verb3"
   },
   {
     "id": "mid-1-007",
@@ -60,7 +66,8 @@
     "present": "bring",
     "past": "brought",
     "pastParticiple": "brought",
-    "meaning": "가져오다"
+    "meaning": "가져오다",
+    "type": "verb3"
   },
   {
     "id": "mid-1-008",
@@ -69,7 +76,8 @@
     "present": "build",
     "past": "built",
     "pastParticiple": "built",
-    "meaning": "짓다"
+    "meaning": "짓다",
+    "type": "verb3"
   },
   {
     "id": "mid-1-009",
@@ -78,7 +86,8 @@
     "present": "buy",
     "past": "bought",
     "pastParticiple": "bought",
-    "meaning": "사다"
+    "meaning": "사다",
+    "type": "verb3"
   },
   {
     "id": "mid-1-010",
@@ -87,7 +96,8 @@
     "present": "catch",
     "past": "caught",
     "pastParticiple": "caught",
-    "meaning": "잡다"
+    "meaning": "잡다",
+    "type": "verb3"
   },
   {
     "id": "mid-1-011",
@@ -96,7 +106,8 @@
     "present": "choose",
     "past": "chose",
     "pastParticiple": "chosen",
-    "meaning": "고르다"
+    "meaning": "고르다",
+    "type": "verb3"
   },
   {
     "id": "mid-1-012",
@@ -105,7 +116,8 @@
     "present": "come",
     "past": "came",
     "pastParticiple": "come",
-    "meaning": "오다"
+    "meaning": "오다",
+    "type": "verb3"
   },
   {
     "id": "mid-1-013",
@@ -114,7 +126,8 @@
     "present": "cost",
     "past": "cost",
     "pastParticiple": "cost",
-    "meaning": "비용이 들다"
+    "meaning": "비용이 들다",
+    "type": "verb3"
   },
   {
     "id": "mid-1-014",
@@ -123,7 +136,8 @@
     "present": "cut",
     "past": "cut",
     "pastParticiple": "cut",
-    "meaning": "자르다"
+    "meaning": "자르다",
+    "type": "verb3"
   },
   {
     "id": "mid-1-015",
@@ -132,7 +146,8 @@
     "present": "dig",
     "past": "dug",
     "pastParticiple": "dug",
-    "meaning": "파다"
+    "meaning": "파다",
+    "type": "verb3"
   },
   {
     "id": "mid-1-016",
@@ -141,7 +156,8 @@
     "present": "do",
     "past": "did",
     "pastParticiple": "done",
-    "meaning": "하다"
+    "meaning": "하다",
+    "type": "verb3"
   },
   {
     "id": "mid-1-017",
@@ -150,7 +166,8 @@
     "present": "draw",
     "past": "drew",
     "pastParticiple": "drawn",
-    "meaning": "선을 긋다"
+    "meaning": "선을 긋다",
+    "type": "verb3"
   },
   {
     "id": "mid-1-018",
@@ -159,7 +176,8 @@
     "present": "drink",
     "past": "drank",
     "pastParticiple": "drunk",
-    "meaning": "마시다"
+    "meaning": "마시다",
+    "type": "verb3"
   },
   {
     "id": "mid-1-019",
@@ -168,7 +186,8 @@
     "present": "drive",
     "past": "drove",
     "pastParticiple": "driven",
-    "meaning": "운전하다"
+    "meaning": "운전하다",
+    "type": "verb3"
   },
   {
     "id": "mid-1-020",
@@ -177,7 +196,8 @@
     "present": "eat",
     "past": "ate",
     "pastParticiple": "eaten",
-    "meaning": "먹다"
+    "meaning": "먹다",
+    "type": "verb3"
   },
   {
     "id": "mid-1-021",
@@ -186,7 +206,8 @@
     "present": "fall",
     "past": "fell",
     "pastParticiple": "fallen",
-    "meaning": "떨어지다"
+    "meaning": "떨어지다",
+    "type": "verb3"
   },
   {
     "id": "mid-1-022",
@@ -195,7 +216,8 @@
     "present": "feed",
     "past": "fed",
     "pastParticiple": "fed",
-    "meaning": "먹이다"
+    "meaning": "먹이다",
+    "type": "verb3"
   },
   {
     "id": "mid-1-023",
@@ -204,7 +226,8 @@
     "present": "feel",
     "past": "felt",
     "pastParticiple": "felt",
-    "meaning": "느끼다"
+    "meaning": "느끼다",
+    "type": "verb3"
   },
   {
     "id": "mid-1-024",
@@ -213,7 +236,8 @@
     "present": "fight",
     "past": "fought",
     "pastParticiple": "fought",
-    "meaning": "싸우다"
+    "meaning": "싸우다",
+    "type": "verb3"
   },
   {
     "id": "mid-1-025",
@@ -222,7 +246,8 @@
     "present": "find",
     "past": "found",
     "pastParticiple": "found",
-    "meaning": "찾다"
+    "meaning": "찾다",
+    "type": "verb3"
   },
   {
     "id": "mid-1-026",
@@ -231,7 +256,8 @@
     "present": "fit",
     "past": "fit",
     "pastParticiple": "fit",
-    "meaning": "(치수가)맞다"
+    "meaning": "(치수가)맞다",
+    "type": "verb3"
   },
   {
     "id": "mid-1-027",
@@ -240,7 +266,8 @@
     "present": "fly",
     "past": "flew",
     "pastParticiple": "flown",
-    "meaning": "날다"
+    "meaning": "날다",
+    "type": "verb3"
   },
   {
     "id": "mid-1-028",
@@ -249,7 +276,8 @@
     "present": "get",
     "past": "got",
     "pastParticiple": "gotten",
-    "meaning": "얻다"
+    "meaning": "얻다",
+    "type": "verb3"
   },
   {
     "id": "mid-1-029",
@@ -258,7 +286,8 @@
     "present": "give",
     "past": "gave",
     "pastParticiple": "given",
-    "meaning": "주다"
+    "meaning": "주다",
+    "type": "verb3"
   },
   {
     "id": "mid-1-030",
@@ -267,7 +296,8 @@
     "present": "go",
     "past": "went",
     "pastParticiple": "gone",
-    "meaning": "가다"
+    "meaning": "가다",
+    "type": "verb3"
   },
   {
     "id": "mid-1-031",
@@ -276,7 +306,8 @@
     "present": "grow",
     "past": "grew",
     "pastParticiple": "grown",
-    "meaning": "자라다"
+    "meaning": "자라다",
+    "type": "verb3"
   },
   {
     "id": "mid-1-032",
@@ -285,7 +316,8 @@
     "present": "hang",
     "past": "hung",
     "pastParticiple": "hung",
-    "meaning": "걸다"
+    "meaning": "걸다",
+    "type": "verb3"
   },
   {
     "id": "mid-1-033",
@@ -294,7 +326,8 @@
     "present": "have",
     "past": "had",
     "pastParticiple": "had",
-    "meaning": "가지다"
+    "meaning": "가지다",
+    "type": "verb3"
   },
   {
     "id": "mid-1-034",
@@ -303,7 +336,8 @@
     "present": "hear",
     "past": "heard",
     "pastParticiple": "heard",
-    "meaning": "듣다"
+    "meaning": "듣다",
+    "type": "verb3"
   },
   {
     "id": "mid-1-035",
@@ -312,7 +346,8 @@
     "present": "hide",
     "past": "hid",
     "pastParticiple": "hidden",
-    "meaning": "숨기다"
+    "meaning": "숨기다",
+    "type": "verb3"
   },
   {
     "id": "mid-1-036",
@@ -321,7 +356,8 @@
     "present": "hit",
     "past": "hit",
     "pastParticiple": "hit",
-    "meaning": "치다"
+    "meaning": "치다",
+    "type": "verb3"
   },
   {
     "id": "mid-1-037",
@@ -330,7 +366,8 @@
     "present": "hold",
     "past": "held",
     "pastParticiple": "held",
-    "meaning": "잡다"
+    "meaning": "잡다",
+    "type": "verb3"
   },
   {
     "id": "mid-1-038",
@@ -339,7 +376,8 @@
     "present": "hurt",
     "past": "hurt",
     "pastParticiple": "hurt",
-    "meaning": "다치다"
+    "meaning": "다치다",
+    "type": "verb3"
   },
   {
     "id": "mid-1-039",
@@ -348,7 +386,8 @@
     "present": "keep",
     "past": "kept",
     "pastParticiple": "kept",
-    "meaning": "지키다"
+    "meaning": "지키다",
+    "type": "verb3"
   },
   {
     "id": "mid-1-040",
@@ -357,7 +396,8 @@
     "present": "know",
     "past": "knew",
     "pastParticiple": "known",
-    "meaning": "알다"
+    "meaning": "알다",
+    "type": "verb3"
   },
   {
     "id": "mid-1-041",
@@ -366,7 +406,8 @@
     "present": "lay",
     "past": "laid",
     "pastParticiple": "laid",
-    "meaning": "놓다"
+    "meaning": "놓다",
+    "type": "verb3"
   },
   {
     "id": "mid-1-042",
@@ -375,7 +416,8 @@
     "present": "lead",
     "past": "led",
     "pastParticiple": "led",
-    "meaning": "이끌다"
+    "meaning": "이끌다",
+    "type": "verb3"
   },
   {
     "id": "mid-1-043",
@@ -384,7 +426,8 @@
     "present": "leave",
     "past": "left",
     "pastParticiple": "left",
-    "meaning": "떠나다"
+    "meaning": "떠나다",
+    "type": "verb3"
   },
   {
     "id": "mid-1-044",
@@ -393,7 +436,8 @@
     "present": "lend",
     "past": "lent",
     "pastParticiple": "lent",
-    "meaning": "빌려주다"
+    "meaning": "빌려주다",
+    "type": "verb3"
   },
   {
     "id": "mid-1-045",
@@ -402,7 +446,8 @@
     "present": "let",
     "past": "let",
     "pastParticiple": "let",
-    "meaning": "~하게 두다"
+    "meaning": "~하게 두다",
+    "type": "verb3"
   },
   {
     "id": "mid-1-046",
@@ -411,7 +456,8 @@
     "present": "lie",
     "past": "lay",
     "pastParticiple": "lain",
-    "meaning": "위치하다"
+    "meaning": "위치하다",
+    "type": "verb3"
   },
   {
     "id": "mid-1-047",
@@ -420,7 +466,8 @@
     "present": "light",
     "past": "lit",
     "pastParticiple": "lit",
-    "meaning": "불을 붙이다"
+    "meaning": "불을 붙이다",
+    "type": "verb3"
   },
   {
     "id": "mid-1-048",
@@ -429,7 +476,8 @@
     "present": "lose",
     "past": "lost",
     "pastParticiple": "lost",
-    "meaning": "잃다"
+    "meaning": "잃다",
+    "type": "verb3"
   },
   {
     "id": "mid-1-049",
@@ -438,7 +486,8 @@
     "present": "make",
     "past": "made",
     "pastParticiple": "made",
-    "meaning": "만들다"
+    "meaning": "만들다",
+    "type": "verb3"
   },
   {
     "id": "mid-1-050",
@@ -447,7 +496,8 @@
     "present": "mean",
     "past": "meant",
     "pastParticiple": "meant",
-    "meaning": "의미하다"
+    "meaning": "의미하다",
+    "type": "verb3"
   },
   {
     "id": "mid-1-051",
@@ -456,7 +506,8 @@
     "present": "meet",
     "past": "met",
     "pastParticiple": "met",
-    "meaning": "만나다"
+    "meaning": "만나다",
+    "type": "verb3"
   },
   {
     "id": "mid-1-052",
@@ -465,7 +516,8 @@
     "present": "pay",
     "past": "paid",
     "pastParticiple": "paid",
-    "meaning": "지불하다"
+    "meaning": "지불하다",
+    "type": "verb3"
   },
   {
     "id": "mid-1-053",
@@ -474,7 +526,8 @@
     "present": "put",
     "past": "put",
     "pastParticiple": "put",
-    "meaning": "놓다/두다"
+    "meaning": "놓다/두다",
+    "type": "verb3"
   },
   {
     "id": "mid-1-054",
@@ -483,7 +536,8 @@
     "present": "quit",
     "past": "quit",
     "pastParticiple": "quit",
-    "meaning": "그만두다"
+    "meaning": "그만두다",
+    "type": "verb3"
   },
   {
     "id": "mid-1-055",
@@ -492,7 +546,8 @@
     "present": "read",
     "past": "read",
     "pastParticiple": "read",
-    "meaning": "(글을)읽다"
+    "meaning": "(글을)읽다",
+    "type": "verb3"
   },
   {
     "id": "mid-1-056",
@@ -501,7 +556,8 @@
     "present": "ride",
     "past": "rode",
     "pastParticiple": "ridden",
-    "meaning": "~을 타다"
+    "meaning": "~을 타다",
+    "type": "verb3"
   },
   {
     "id": "mid-1-057",
@@ -510,7 +566,8 @@
     "present": "ring",
     "past": "rang",
     "pastParticiple": "rung",
-    "meaning": "(벨이)울리다"
+    "meaning": "(벨이)울리다",
+    "type": "verb3"
   },
   {
     "id": "mid-1-058",
@@ -519,7 +576,8 @@
     "present": "rise",
     "past": "rose",
     "pastParticiple": "risen",
-    "meaning": "떠오르다"
+    "meaning": "떠오르다",
+    "type": "verb3"
   },
   {
     "id": "mid-1-059",
@@ -528,7 +586,8 @@
     "present": "run",
     "past": "ran",
     "pastParticiple": "run",
-    "meaning": "달리다"
+    "meaning": "달리다",
+    "type": "verb3"
   },
   {
     "id": "mid-1-060",
@@ -537,7 +596,8 @@
     "present": "say",
     "past": "said",
     "pastParticiple": "said",
-    "meaning": "말하다"
+    "meaning": "말하다",
+    "type": "verb3"
   },
   {
     "id": "mid-1-061",
@@ -546,7 +606,8 @@
     "present": "see",
     "past": "saw",
     "pastParticiple": "seen",
-    "meaning": "보다"
+    "meaning": "보다",
+    "type": "verb3"
   },
   {
     "id": "mid-1-062",
@@ -555,7 +616,8 @@
     "present": "sell",
     "past": "sold",
     "pastParticiple": "sold",
-    "meaning": "팔다"
+    "meaning": "팔다",
+    "type": "verb3"
   },
   {
     "id": "mid-1-063",
@@ -564,7 +626,8 @@
     "present": "send",
     "past": "sent",
     "pastParticiple": "sent",
-    "meaning": "보내다"
+    "meaning": "보내다",
+    "type": "verb3"
   },
   {
     "id": "mid-1-064",
@@ -573,7 +636,8 @@
     "present": "set",
     "past": "set",
     "pastParticiple": "set",
-    "meaning": "정하다"
+    "meaning": "정하다",
+    "type": "verb3"
   },
   {
     "id": "mid-1-065",
@@ -582,7 +646,8 @@
     "present": "shake",
     "past": "shook",
     "pastParticiple": "shaken",
-    "meaning": "흔들다"
+    "meaning": "흔들다",
+    "type": "verb3"
   },
   {
     "id": "mid-1-066",
@@ -591,7 +656,8 @@
     "present": "shoot",
     "past": "shot",
     "pastParticiple": "shot",
-    "meaning": "쏘다"
+    "meaning": "쏘다",
+    "type": "verb3"
   },
   {
     "id": "mid-1-067",
@@ -600,7 +666,8 @@
     "present": "show",
     "past": "showed",
     "pastParticiple": "shown",
-    "meaning": "보여주다"
+    "meaning": "보여주다",
+    "type": "verb3"
   },
   {
     "id": "mid-1-068",
@@ -609,7 +676,8 @@
     "present": "shut",
     "past": "shut",
     "pastParticiple": "shut",
-    "meaning": "닫다"
+    "meaning": "닫다",
+    "type": "verb3"
   },
   {
     "id": "mid-1-069",
@@ -618,7 +686,8 @@
     "present": "sing",
     "past": "sang",
     "pastParticiple": "sung",
-    "meaning": "노래하다"
+    "meaning": "노래하다",
+    "type": "verb3"
   },
   {
     "id": "mid-1-070",
@@ -627,7 +696,8 @@
     "present": "sit",
     "past": "sat",
     "pastParticiple": "sat",
-    "meaning": "앉다"
+    "meaning": "앉다",
+    "type": "verb3"
   },
   {
     "id": "mid-1-071",
@@ -636,7 +706,8 @@
     "present": "sleep",
     "past": "slept",
     "pastParticiple": "slept",
-    "meaning": "잠자다"
+    "meaning": "잠자다",
+    "type": "verb3"
   },
   {
     "id": "mid-1-072",
@@ -645,7 +716,8 @@
     "present": "speak",
     "past": "spoke",
     "pastParticiple": "spoken",
-    "meaning": "말하다"
+    "meaning": "말하다",
+    "type": "verb3"
   },
   {
     "id": "mid-1-073",
@@ -654,7 +726,8 @@
     "present": "spend",
     "past": "spent",
     "pastParticiple": "spent",
-    "meaning": "보내다"
+    "meaning": "보내다",
+    "type": "verb3"
   },
   {
     "id": "mid-1-074",
@@ -663,7 +736,8 @@
     "present": "stand",
     "past": "stood",
     "pastParticiple": "stood",
-    "meaning": "서있다"
+    "meaning": "서있다",
+    "type": "verb3"
   },
   {
     "id": "mid-1-075",
@@ -672,7 +746,8 @@
     "present": "steal",
     "past": "stole",
     "pastParticiple": "stolen",
-    "meaning": "훔치다"
+    "meaning": "훔치다",
+    "type": "verb3"
   },
   {
     "id": "mid-1-076",
@@ -681,7 +756,8 @@
     "present": "strike",
     "past": "struck",
     "pastParticiple": "struck",
-    "meaning": "때리다"
+    "meaning": "때리다",
+    "type": "verb3"
   },
   {
     "id": "mid-1-077",
@@ -690,7 +766,8 @@
     "present": "sweep",
     "past": "swept",
     "pastParticiple": "swept",
-    "meaning": "청소하다"
+    "meaning": "청소하다",
+    "type": "verb3"
   },
   {
     "id": "mid-1-078",
@@ -699,7 +776,8 @@
     "present": "swim",
     "past": "swam",
     "pastParticiple": "swum",
-    "meaning": "수영하다"
+    "meaning": "수영하다",
+    "type": "verb3"
   },
   {
     "id": "mid-1-079",
@@ -708,7 +786,8 @@
     "present": "take",
     "past": "took",
     "pastParticiple": "taken",
-    "meaning": "잡다"
+    "meaning": "잡다",
+    "type": "verb3"
   },
   {
     "id": "mid-1-080",
@@ -717,7 +796,8 @@
     "present": "teach",
     "past": "taught",
     "pastParticiple": "taught",
-    "meaning": "가르치다"
+    "meaning": "가르치다",
+    "type": "verb3"
   },
   {
     "id": "mid-1-081",
@@ -726,7 +806,8 @@
     "present": "tell",
     "past": "told",
     "pastParticiple": "told",
-    "meaning": "말하다"
+    "meaning": "말하다",
+    "type": "verb3"
   },
   {
     "id": "mid-1-082",
@@ -735,7 +816,8 @@
     "present": "think",
     "past": "thought",
     "pastParticiple": "thought",
-    "meaning": "생각하다"
+    "meaning": "생각하다",
+    "type": "verb3"
   },
   {
     "id": "mid-1-083",
@@ -744,7 +826,8 @@
     "present": "throw",
     "past": "threw",
     "pastParticiple": "thrown",
-    "meaning": "던지다"
+    "meaning": "던지다",
+    "type": "verb3"
   },
   {
     "id": "mid-1-084",
@@ -753,7 +836,8 @@
     "present": "wake",
     "past": "woke",
     "pastParticiple": "woken",
-    "meaning": "깨어나다"
+    "meaning": "깨어나다",
+    "type": "verb3"
   },
   {
     "id": "mid-1-085",
@@ -762,7 +846,8 @@
     "present": "wear",
     "past": "wore",
     "pastParticiple": "worn",
-    "meaning": "옷을 입다"
+    "meaning": "옷을 입다",
+    "type": "verb3"
   },
   {
     "id": "mid-1-086",
@@ -771,7 +856,8 @@
     "present": "win",
     "past": "won",
     "pastParticiple": "won",
-    "meaning": "이기다"
+    "meaning": "이기다",
+    "type": "verb3"
   },
   {
     "id": "mid-1-087",
@@ -780,6 +866,967 @@
     "present": "write",
     "past": "wrote",
     "pastParticiple": "written",
-    "meaning": "글을 쓰다"
+    "meaning": "글을 쓰다",
+    "type": "verb3"
+  },
+  {
+    "id": "mid-2-001",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "wise",
+    "meaning": "지혜로운, 슬기로운"
+  },
+  {
+    "id": "mid-2-002",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "foolish",
+    "meaning": "바보 같은, 어리석은"
+  },
+  {
+    "id": "mid-2-003",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "proud",
+    "meaning": "자랑스러워하는, 거만한"
+  },
+  {
+    "id": "mid-2-004",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "honest",
+    "meaning": "정직한, 솔직한"
+  },
+  {
+    "id": "mid-2-005",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "careful",
+    "meaning": "조심성 있는"
+  },
+  {
+    "id": "mid-2-006",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "brave",
+    "meaning": "용감한"
+  },
+  {
+    "id": "mid-2-007",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "lazy",
+    "meaning": "게으른"
+  },
+  {
+    "id": "mid-2-008",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "calm",
+    "meaning": "차분한, 침착한"
+  },
+  {
+    "id": "mid-2-009",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "rude",
+    "meaning": "무례한, 예의 없는"
+  },
+  {
+    "id": "mid-2-010",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "active",
+    "meaning": "활동적인, 적극적인"
+  },
+  {
+    "id": "mid-2-011",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "character",
+    "meaning": "성격, 기질"
+  },
+  {
+    "id": "mid-2-012",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "serious",
+    "meaning": "진지한, 진심의"
+  },
+  {
+    "id": "mid-2-013",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "strict",
+    "meaning": "엄한, 엄격한"
+  },
+  {
+    "id": "mid-2-014",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "cruel",
+    "meaning": "잔인한, 무자비한"
+  },
+  {
+    "id": "mid-2-015",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "mean",
+    "meaning": "못된, 심술궂은"
+  },
+  {
+    "id": "mid-2-016",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "selfish",
+    "meaning": "이기적인"
+  },
+  {
+    "id": "mid-2-017",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "evil",
+    "meaning": "나쁜, 사악한"
+  },
+  {
+    "id": "mid-2-018",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "curious",
+    "meaning": "호기심이 많은"
+  },
+  {
+    "id": "mid-2-019",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "cheerful",
+    "meaning": "쾌활한, 명랑한"
+  },
+  {
+    "id": "mid-2-020",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "friendly",
+    "meaning": "친한, 친절한"
+  },
+  {
+    "id": "mid-2-021",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "modest",
+    "meaning": "겸손한, 신중한"
+  },
+  {
+    "id": "mid-2-022",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "generous",
+    "meaning": "관대한, 후한"
+  },
+  {
+    "id": "mid-2-023",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "sensitive",
+    "meaning": "민감한, 예민한"
+  },
+  {
+    "id": "mid-2-024",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "confident",
+    "meaning": "자신만만한, 확신하는"
+  },
+  {
+    "id": "mid-2-025",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "positive",
+    "meaning": "긍정적인"
+  },
+  {
+    "id": "mid-2-026",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "negative",
+    "meaning": "부정적인"
+  },
+  {
+    "id": "mid-2-027",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "optimistic",
+    "meaning": "낙관적인, 낙천적인"
+  },
+  {
+    "id": "mid-2-028",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "cautious",
+    "meaning": "조심스러운, 신중한"
+  },
+  {
+    "id": "mid-2-029",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "make fun of",
+    "meaning": "놀리다, 비웃다"
+  },
+  {
+    "id": "mid-2-030",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "cheer up",
+    "meaning": "기운을 내다, 격려하다"
+  },
+  {
+    "id": "mid-2-031",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "cute",
+    "meaning": "귀여운, 예쁜"
+  },
+  {
+    "id": "mid-2-032",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "pretty",
+    "meaning": "예쁜, 귀여운"
+  },
+  {
+    "id": "mid-2-033",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "beautiful",
+    "meaning": "아름다운"
+  },
+  {
+    "id": "mid-2-034",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "ugly",
+    "meaning": "못생긴, 추한"
+  },
+  {
+    "id": "mid-2-035",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "overweight",
+    "meaning": "과체중의, 너무 살찐"
+  },
+  {
+    "id": "mid-2-036",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "young",
+    "meaning": "어린, 젊은"
+  },
+  {
+    "id": "mid-2-037",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "handsome",
+    "meaning": "(남자가) 잘생긴"
+  },
+  {
+    "id": "mid-2-038",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "slim",
+    "meaning": "호리호리한, 날씬한"
+  },
+  {
+    "id": "mid-2-039",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "beard",
+    "meaning": "턱수염"
+  },
+  {
+    "id": "mid-2-040",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "lovely",
+    "meaning": "사랑스러운, 아름다운"
+  },
+  {
+    "id": "mid-2-041",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "neat",
+    "meaning": "단정한, 깔끔한"
+  },
+  {
+    "id": "mid-2-042",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "plain",
+    "meaning": "평범하게 생긴, 꾸밈없는"
+  },
+  {
+    "id": "mid-2-043",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "good-looking",
+    "meaning": "잘생긴"
+  },
+  {
+    "id": "mid-2-044",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "skinny",
+    "meaning": "깡마른, 바싹 여윈"
+  },
+  {
+    "id": "mid-2-045",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "fit",
+    "meaning": "건강한, 적합한"
+  },
+  {
+    "id": "mid-2-046",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "muscular",
+    "meaning": "근육질의, 건장한"
+  },
+  {
+    "id": "mid-2-047",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "thin",
+    "meaning": "가는, 가느다란, 여윈"
+  },
+  {
+    "id": "mid-2-048",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "bald",
+    "meaning": "대머리의"
+  },
+  {
+    "id": "mid-2-049",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "curly",
+    "meaning": "곱슬거리는"
+  },
+  {
+    "id": "mid-2-050",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "dye",
+    "meaning": "염색하다"
+  },
+  {
+    "id": "mid-2-051",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "appearance",
+    "meaning": "외모"
+  },
+  {
+    "id": "mid-2-052",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "attractive",
+    "meaning": "매력적인"
+  },
+  {
+    "id": "mid-2-053",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "charming",
+    "meaning": "매력적인, 멋진"
+  },
+  {
+    "id": "mid-2-054",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "mustache",
+    "meaning": "코밑수염"
+  },
+  {
+    "id": "mid-2-055",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "sideburns",
+    "meaning": "구레나룻"
+  },
+  {
+    "id": "mid-2-056",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "middle-aged",
+    "meaning": "중년의"
+  },
+  {
+    "id": "mid-2-057",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "build",
+    "meaning": "체격, 짓다, 건축하다"
+  },
+  {
+    "id": "mid-2-058",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "image",
+    "meaning": "이미지, 상, 형태"
+  },
+  {
+    "id": "mid-2-059",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "grow up",
+    "meaning": "성장하다, 자라다"
+  },
+  {
+    "id": "mid-2-060",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "both A and B",
+    "meaning": "A와 B 둘 다"
+  },
+  {
+    "id": "mid-2-061",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "enjoy",
+    "meaning": "즐기다"
+  },
+  {
+    "id": "mid-2-062",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "cry",
+    "meaning": "울다"
+  },
+  {
+    "id": "mid-2-063",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "glad",
+    "meaning": "기쁜"
+  },
+  {
+    "id": "mid-2-064",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "fear",
+    "meaning": "공포"
+  },
+  {
+    "id": "mid-2-065",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "joy",
+    "meaning": "기쁨, 즐거움"
+  },
+  {
+    "id": "mid-2-066",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "miss",
+    "meaning": "그리워하다, 놓치다"
+  },
+  {
+    "id": "mid-2-067",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "laugh",
+    "meaning": "웃다"
+  },
+  {
+    "id": "mid-2-068",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "mad",
+    "meaning": "몹시 화난, 성난, 미친"
+  },
+  {
+    "id": "mid-2-069",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "annoyed",
+    "meaning": "짜증 난, 화가 난"
+  },
+  {
+    "id": "mid-2-070",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "upset",
+    "meaning": "화가 난, 기분이 상한"
+  },
+  {
+    "id": "mid-2-071",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "worried",
+    "meaning": "걱정스러운"
+  },
+  {
+    "id": "mid-2-072",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "regret",
+    "meaning": "후회하다, 유감"
+  },
+  {
+    "id": "mid-2-073",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "bother",
+    "meaning": "괴롭히다, 방해하다"
+  },
+  {
+    "id": "mid-2-074",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "excited",
+    "meaning": "흥분한, 신이 난"
+  },
+  {
+    "id": "mid-2-075",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "surprised",
+    "meaning": "놀란"
+  },
+  {
+    "id": "mid-2-076",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "pleased",
+    "meaning": "기쁜, 좋아하는"
+  },
+  {
+    "id": "mid-2-077",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "horrible",
+    "meaning": "무서운, 끔찍한"
+  },
+  {
+    "id": "mid-2-078",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "grateful",
+    "meaning": "감사하는, 고맙게 여기는"
+  },
+  {
+    "id": "mid-2-079",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "anxious",
+    "meaning": "걱정되는, 근심이 되는"
+  },
+  {
+    "id": "mid-2-080",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "delighted",
+    "meaning": "매우 기뻐하는"
+  },
+  {
+    "id": "mid-2-081",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "depressed",
+    "meaning": "의기소침한, 우울한"
+  },
+  {
+    "id": "mid-2-082",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "frightened",
+    "meaning": "깜짝 놀란, 겁이 난"
+  },
+  {
+    "id": "mid-2-083",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "ashamed",
+    "meaning": "부끄러워하는"
+  },
+  {
+    "id": "mid-2-084",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "emotion",
+    "meaning": "감정"
+  },
+  {
+    "id": "mid-2-085",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "sympathy",
+    "meaning": "동정"
+  },
+  {
+    "id": "mid-2-086",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "satisfied",
+    "meaning": "만족한"
+  },
+  {
+    "id": "mid-2-087",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "disappointed",
+    "meaning": "실망한, 낙담한"
+  },
+  {
+    "id": "mid-2-088",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "amused",
+    "meaning": "즐기는, 즐거워하는"
+  },
+  {
+    "id": "mid-2-089",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "calm down",
+    "meaning": "진정하다, 흥분을 가라앉히다"
+  },
+  {
+    "id": "mid-2-090",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "feel sorry for",
+    "meaning": "안쓰럽게 여기다, 미안함을 느끼다"
+  },
+  {
+    "id": "mid-2-091",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "baker",
+    "meaning": "제빵사"
+  },
+  {
+    "id": "mid-2-092",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "reporter",
+    "meaning": "기자, 통신원"
+  },
+  {
+    "id": "mid-2-093",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "engineer",
+    "meaning": "기사, 기술자"
+  },
+  {
+    "id": "mid-2-094",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "scientist",
+    "meaning": "과학자"
+  },
+  {
+    "id": "mid-2-095",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "lawyer",
+    "meaning": "변호사"
+  },
+  {
+    "id": "mid-2-096",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "dentist",
+    "meaning": "치과의사"
+  },
+  {
+    "id": "mid-2-097",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "mechanic",
+    "meaning": "정비공"
+  },
+  {
+    "id": "mid-2-098",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "architect",
+    "meaning": "건축가"
+  },
+  {
+    "id": "mid-2-099",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "officer",
+    "meaning": "공무원, 관리"
+  },
+  {
+    "id": "mid-2-100",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "gardener",
+    "meaning": "정원사"
+  },
+  {
+    "id": "mid-2-101",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "photographer",
+    "meaning": "사진사, 사진작가"
+  },
+  {
+    "id": "mid-2-102",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "president",
+    "meaning": "대통령"
+  },
+  {
+    "id": "mid-2-103",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "salesperson",
+    "meaning": "판매원"
+  },
+  {
+    "id": "mid-2-104",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "carpenter",
+    "meaning": "목수"
+  },
+  {
+    "id": "mid-2-105",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "businessman",
+    "meaning": "사업가"
+  },
+  {
+    "id": "mid-2-106",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "fisherman",
+    "meaning": "어부"
+  },
+  {
+    "id": "mid-2-107",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "soldier",
+    "meaning": "군인"
+  },
+  {
+    "id": "mid-2-108",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "professor",
+    "meaning": "교수"
+  },
+  {
+    "id": "mid-2-109",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "judge",
+    "meaning": "판사, 심사원"
+  },
+  {
+    "id": "mid-2-110",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "announcer",
+    "meaning": "방송 진행자, 아나운서"
+  },
+  {
+    "id": "mid-2-111",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "hairdresser",
+    "meaning": "미용사"
+  },
+  {
+    "id": "mid-2-112",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "accountant",
+    "meaning": "회계사"
+  },
+  {
+    "id": "mid-2-113",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "novelist",
+    "meaning": "소설가"
+  },
+  {
+    "id": "mid-2-114",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "security guard",
+    "meaning": "경호원, 경비원"
+  },
+  {
+    "id": "mid-2-115",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "astronaut",
+    "meaning": "우주비행사"
+  },
+  {
+    "id": "mid-2-116",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "detective",
+    "meaning": "탐정"
+  },
+  {
+    "id": "mid-2-117",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "secretary",
+    "meaning": "비서"
+  },
+  {
+    "id": "mid-2-118",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "illustrator",
+    "meaning": "삽화가"
+  },
+  {
+    "id": "mid-2-119",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "be good at",
+    "meaning": "~에 능숙하다, 잘하다"
+  },
+  {
+    "id": "mid-2-120",
+    "level": "middle",
+    "round": 2,
+    "type": "word",
+    "word": "be interested in",
+    "meaning": "~에 관심이 있다"
   }
 ]

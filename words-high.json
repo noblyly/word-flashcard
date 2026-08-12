@@ -4,629 +4,719 @@
     "level": "high",
     "round": 1,
     "word": "absorb",
-    "meaning": "흡수하다, 열중하다"
+    "meaning": "흡수하다, 열중하다",
+    "type": "word"
   },
   {
     "id": "high-1-002",
     "level": "high",
     "round": 1,
     "word": "abuse",
-    "meaning": "남용하다, 학대하다"
+    "meaning": "남용하다, 학대하다",
+    "type": "word"
   },
   {
     "id": "high-1-003",
     "level": "high",
     "round": 1,
     "word": "accelerate",
-    "meaning": "속도를 더하다"
+    "meaning": "속도를 더하다",
+    "type": "word"
   },
   {
     "id": "high-1-004",
     "level": "high",
     "round": 1,
     "word": "accomplish",
-    "meaning": "성취하다"
+    "meaning": "성취하다",
+    "type": "word"
   },
   {
     "id": "high-1-005",
     "level": "high",
     "round": 1,
     "word": "accord",
-    "meaning": "일치(하다)"
+    "meaning": "일치(하다)",
+    "type": "word"
   },
   {
     "id": "high-1-006",
     "level": "high",
     "round": 1,
     "word": "account",
-    "meaning": "계산하다, 설명하다"
+    "meaning": "계산하다, 설명하다",
+    "type": "word"
   },
   {
     "id": "high-1-007",
     "level": "high",
     "round": 1,
     "word": "accumulate",
-    "meaning": "축적하다"
+    "meaning": "축적하다",
+    "type": "word"
   },
   {
     "id": "high-1-008",
     "level": "high",
     "round": 1,
     "word": "accuse",
-    "meaning": "비난하다, 고발하다"
+    "meaning": "비난하다, 고발하다",
+    "type": "word"
   },
   {
     "id": "high-1-009",
     "level": "high",
     "round": 1,
     "word": "accustom",
-    "meaning": "익히다, 습관 들이다"
+    "meaning": "익히다, 습관 들이다",
+    "type": "word"
   },
   {
     "id": "high-1-010",
     "level": "high",
     "round": 1,
     "word": "achieve",
-    "meaning": "성취하다"
+    "meaning": "성취하다",
+    "type": "word"
   },
   {
     "id": "high-1-011",
     "level": "high",
     "round": 1,
     "word": "acquire",
-    "meaning": "얻다, 획득하다"
+    "meaning": "얻다, 획득하다",
+    "type": "word"
   },
   {
     "id": "high-1-012",
     "level": "high",
     "round": 1,
     "word": "adapt",
-    "meaning": "적응시키다, 개작하다"
+    "meaning": "적응시키다, 개작하다",
+    "type": "word"
   },
   {
     "id": "high-1-013",
     "level": "high",
     "round": 1,
     "word": "adjust",
-    "meaning": "적응시키다, 조정하다"
+    "meaning": "적응시키다, 조정하다",
+    "type": "word"
   },
   {
     "id": "high-1-014",
     "level": "high",
     "round": 1,
     "word": "administer",
-    "meaning": "관리하다, 경영하다"
+    "meaning": "관리하다, 경영하다",
+    "type": "word"
   },
   {
     "id": "high-1-015",
     "level": "high",
     "round": 1,
     "word": "admire",
-    "meaning": "감탄하다, 칭찬하다"
+    "meaning": "감탄하다, 칭찬하다",
+    "type": "word"
   },
   {
     "id": "high-1-016",
     "level": "high",
     "round": 1,
     "word": "adopt",
-    "meaning": "채용하다, 입양하다"
+    "meaning": "채용하다, 입양하다",
+    "type": "word"
   },
   {
     "id": "high-1-017",
     "level": "high",
     "round": 1,
     "word": "advance",
-    "meaning": "전진하다, 진보하다, 승진하다"
+    "meaning": "전진하다, 진보하다, 승진하다",
+    "type": "word"
   },
   {
     "id": "high-1-018",
     "level": "high",
     "round": 1,
     "word": "affect",
-    "meaning": "영향을 주다, 감동시키다"
+    "meaning": "영향을 주다, 감동시키다",
+    "type": "word"
   },
   {
     "id": "high-1-019",
     "level": "high",
     "round": 1,
     "word": "affirm",
-    "meaning": "긍정하다, 단언하다"
+    "meaning": "긍정하다, 단언하다",
+    "type": "word"
   },
   {
     "id": "high-1-020",
     "level": "high",
     "round": 1,
     "word": "afford",
-    "meaning": "~할 수(여유가) 있다"
+    "meaning": "~할 수(여유가) 있다",
+    "type": "word"
   },
   {
     "id": "high-1-021",
     "level": "high",
     "round": 1,
     "word": "aid",
-    "meaning": "도와주다"
+    "meaning": "도와주다",
+    "type": "word"
   },
   {
     "id": "high-1-022",
     "level": "high",
     "round": 1,
     "word": "aim",
-    "meaning": "겨누다"
+    "meaning": "겨누다",
+    "type": "word"
   },
   {
     "id": "high-1-023",
     "level": "high",
     "round": 1,
     "word": "alarm",
-    "meaning": "놀라게 하다"
+    "meaning": "놀라게 하다",
+    "type": "word"
   },
   {
     "id": "high-1-024",
     "level": "high",
     "round": 1,
     "word": "allow",
-    "meaning": "허락하다, 참작하다"
+    "meaning": "허락하다, 참작하다",
+    "type": "word"
   },
   {
     "id": "high-1-025",
     "level": "high",
     "round": 1,
     "word": "alter",
-    "meaning": "변경하다"
+    "meaning": "변경하다",
+    "type": "word"
   },
   {
     "id": "high-1-026",
     "level": "high",
     "round": 1,
     "word": "alternate",
-    "meaning": "교대하다"
+    "meaning": "교대하다",
+    "type": "word"
   },
   {
     "id": "high-1-027",
     "level": "high",
     "round": 1,
     "word": "amaze",
-    "meaning": "몹시 놀라게 하다"
+    "meaning": "몹시 놀라게 하다",
+    "type": "word"
   },
   {
     "id": "high-1-028",
     "level": "high",
     "round": 1,
     "word": "amount",
-    "meaning": "~에 달하다(이르다)"
+    "meaning": "~에 달하다(이르다)",
+    "type": "word"
   },
   {
     "id": "high-1-029",
     "level": "high",
     "round": 1,
     "word": "amuse",
-    "meaning": "재미나게 하다"
+    "meaning": "재미나게 하다",
+    "type": "word"
   },
   {
     "id": "high-1-030",
     "level": "high",
     "round": 1,
     "word": "analyze",
-    "meaning": "분석(분해)하다"
+    "meaning": "분석(분해)하다",
+    "type": "word"
   },
   {
     "id": "high-1-031",
     "level": "high",
     "round": 1,
     "word": "annoy",
-    "meaning": "괴롭히다"
+    "meaning": "괴롭히다",
+    "type": "word"
   },
   {
     "id": "high-1-032",
     "level": "high",
     "round": 1,
     "word": "anticipate",
-    "meaning": "예상하다"
+    "meaning": "예상하다",
+    "type": "word"
   },
   {
     "id": "high-1-033",
     "level": "high",
     "round": 1,
     "word": "apologize",
-    "meaning": "사과(변명)하다"
+    "meaning": "사과(변명)하다",
+    "type": "word"
   },
   {
     "id": "high-1-034",
     "level": "high",
     "round": 1,
     "word": "appeal",
-    "meaning": "호소하다, 간청하다"
+    "meaning": "호소하다, 간청하다",
+    "type": "word"
   },
   {
     "id": "high-1-035",
     "level": "high",
     "round": 1,
     "word": "apply",
-    "meaning": "신청/지원/적용하다"
+    "meaning": "신청/지원/적용하다",
+    "type": "word"
   },
   {
     "id": "high-1-036",
     "level": "high",
     "round": 1,
     "word": "appoint",
-    "meaning": "임명(지정)하다"
+    "meaning": "임명(지정)하다",
+    "type": "word"
   },
   {
     "id": "high-1-037",
     "level": "high",
     "round": 1,
     "word": "appreciate",
-    "meaning": "감사하다, 감상하다, 인정하다"
+    "meaning": "감사하다, 감상하다, 인정하다",
+    "type": "word"
   },
   {
     "id": "high-1-038",
     "level": "high",
     "round": 1,
     "word": "apprehend",
-    "meaning": "이해하다, 염려하다"
+    "meaning": "이해하다, 염려하다",
+    "type": "word"
   },
   {
     "id": "high-1-039",
     "level": "high",
     "round": 1,
     "word": "approach",
-    "meaning": "접근하다"
+    "meaning": "접근하다",
+    "type": "word"
   },
   {
     "id": "high-1-040",
     "level": "high",
     "round": 1,
     "word": "approve",
-    "meaning": "시인하다, 찬성하다"
+    "meaning": "시인하다, 찬성하다",
+    "type": "word"
   },
   {
     "id": "high-1-041",
     "level": "high",
     "round": 1,
     "word": "argue",
-    "meaning": "논하다, 설득하다"
+    "meaning": "논하다, 설득하다",
+    "type": "word"
   },
   {
     "id": "high-1-042",
     "level": "high",
     "round": 1,
     "word": "arrest",
-    "meaning": "체포하다, 저지하다"
+    "meaning": "체포하다, 저지하다",
+    "type": "word"
   },
   {
     "id": "high-1-043",
     "level": "high",
     "round": 1,
     "word": "ascend",
-    "meaning": "올라가다"
+    "meaning": "올라가다",
+    "type": "word"
   },
   {
     "id": "high-1-044",
     "level": "high",
     "round": 1,
     "word": "assemble",
-    "meaning": "모이다"
+    "meaning": "모이다",
+    "type": "word"
   },
   {
     "id": "high-1-045",
     "level": "high",
     "round": 1,
     "word": "assert",
-    "meaning": "주장하다, 단언하다"
+    "meaning": "주장하다, 단언하다",
+    "type": "word"
   },
   {
     "id": "high-2-001",
     "level": "high",
     "round": 2,
     "word": "assign",
-    "meaning": "할당하다"
+    "meaning": "할당하다",
+    "type": "word"
   },
   {
     "id": "high-2-002",
     "level": "high",
     "round": 2,
     "word": "assimilate",
-    "meaning": "동화하다"
+    "meaning": "동화하다",
+    "type": "word"
   },
   {
     "id": "high-2-003",
     "level": "high",
     "round": 2,
     "word": "assist",
-    "meaning": "돕다"
+    "meaning": "돕다",
+    "type": "word"
   },
   {
     "id": "high-2-004",
     "level": "high",
     "round": 2,
     "word": "associate",
-    "meaning": "교제하다, 연상하다"
+    "meaning": "교제하다, 연상하다",
+    "type": "word"
   },
   {
     "id": "high-2-005",
     "level": "high",
     "round": 2,
     "word": "assume",
-    "meaning": "~인 체하다, 가정하다"
+    "meaning": "~인 체하다, 가정하다",
+    "type": "word"
   },
   {
     "id": "high-2-006",
     "level": "high",
     "round": 2,
     "word": "astonish",
-    "meaning": "놀라게 하다"
+    "meaning": "놀라게 하다",
+    "type": "word"
   },
   {
     "id": "high-2-007",
     "level": "high",
     "round": 2,
     "word": "attach",
-    "meaning": "붙이다"
+    "meaning": "붙이다",
+    "type": "word"
   },
   {
     "id": "high-2-008",
     "level": "high",
     "round": 2,
     "word": "attain",
-    "meaning": "달성하다, 얻다"
+    "meaning": "달성하다, 얻다",
+    "type": "word"
   },
   {
     "id": "high-2-009",
     "level": "high",
     "round": 2,
     "word": "attempt",
-    "meaning": "시도하다"
+    "meaning": "시도하다",
+    "type": "word"
   },
   {
     "id": "high-2-010",
     "level": "high",
     "round": 2,
     "word": "attract",
-    "meaning": "끌다"
+    "meaning": "끌다",
+    "type": "word"
   },
   {
     "id": "high-2-011",
     "level": "high",
     "round": 2,
     "word": "attribute",
-    "meaning": "~탓으로 돌리다"
+    "meaning": "~탓으로 돌리다",
+    "type": "word"
   },
   {
     "id": "high-2-012",
     "level": "high",
     "round": 2,
     "word": "avail",
-    "meaning": "쓸모있다, 소용되다"
+    "meaning": "쓸모있다, 소용되다",
+    "type": "word"
   },
   {
     "id": "high-2-013",
     "level": "high",
     "round": 2,
     "word": "avoid",
-    "meaning": "피하다"
+    "meaning": "피하다",
+    "type": "word"
   },
   {
     "id": "high-2-014",
     "level": "high",
     "round": 2,
     "word": "award",
-    "meaning": "수여하다, 상주다"
+    "meaning": "수여하다, 상주다",
+    "type": "word"
   },
   {
     "id": "high-2-015",
     "level": "high",
     "round": 2,
     "word": "bait",
-    "meaning": "미끼로 꾀다, 유혹하다"
+    "meaning": "미끼로 꾀다, 유혹하다",
+    "type": "word"
   },
   {
     "id": "high-2-016",
     "level": "high",
     "round": 2,
     "word": "behave",
-    "meaning": "행동하다"
+    "meaning": "행동하다",
+    "type": "word"
   },
   {
     "id": "high-2-017",
     "level": "high",
     "round": 2,
     "word": "benefit",
-    "meaning": "이익이 되다"
+    "meaning": "이익이 되다",
+    "type": "word"
   },
   {
     "id": "high-2-018",
     "level": "high",
     "round": 2,
     "word": "betray",
-    "meaning": "배반하다, 누설하다"
+    "meaning": "배반하다, 누설하다",
+    "type": "word"
   },
   {
     "id": "high-2-019",
     "level": "high",
     "round": 2,
     "word": "beware",
-    "meaning": "조심하다"
+    "meaning": "조심하다",
+    "type": "word"
   },
   {
     "id": "high-2-020",
     "level": "high",
     "round": 2,
     "word": "blame",
-    "meaning": "비난하다, 책망하다"
+    "meaning": "비난하다, 책망하다",
+    "type": "word"
   },
   {
     "id": "high-2-021",
     "level": "high",
     "round": 2,
     "word": "bleed",
-    "meaning": "출혈하다"
+    "meaning": "출혈하다",
+    "type": "word"
   },
   {
     "id": "high-2-022",
     "level": "high",
     "round": 2,
     "word": "bless",
-    "meaning": "축복하다"
+    "meaning": "축복하다",
+    "type": "word"
   },
   {
     "id": "high-2-023",
     "level": "high",
     "round": 2,
     "word": "bloom",
-    "meaning": "꽃 피다"
+    "meaning": "꽃 피다",
+    "type": "word"
   },
   {
     "id": "high-2-024",
     "level": "high",
     "round": 2,
     "word": "boast",
-    "meaning": "자랑하다"
+    "meaning": "자랑하다",
+    "type": "word"
   },
   {
     "id": "high-2-025",
     "level": "high",
     "round": 2,
     "word": "bomb",
-    "meaning": "폭격하다"
+    "meaning": "폭격하다",
+    "type": "word"
   },
   {
     "id": "high-2-026",
     "level": "high",
     "round": 2,
     "word": "bother",
-    "meaning": "괴롭히다, 노력하다"
+    "meaning": "괴롭히다, 노력하다",
+    "type": "word"
   },
   {
     "id": "high-2-027",
     "level": "high",
     "round": 2,
     "word": "broadcast",
-    "meaning": "방송하다"
+    "meaning": "방송하다",
+    "type": "word"
   },
   {
     "id": "high-2-028",
     "level": "high",
     "round": 2,
     "word": "burden",
-    "meaning": "짐(부담)을 지우다"
+    "meaning": "짐(부담)을 지우다",
+    "type": "word"
   },
   {
     "id": "high-2-029",
     "level": "high",
     "round": 2,
     "word": "burst",
-    "meaning": "폭발하다, 터뜨리다"
+    "meaning": "폭발하다, 터뜨리다",
+    "type": "word"
   },
   {
     "id": "high-2-030",
     "level": "high",
     "round": 2,
     "word": "calculate",
-    "meaning": "계산하다"
+    "meaning": "계산하다",
+    "type": "word"
   },
   {
     "id": "high-2-031",
     "level": "high",
     "round": 2,
     "word": "cancel",
-    "meaning": "취소하다"
+    "meaning": "취소하다",
+    "type": "word"
   },
   {
     "id": "high-2-032",
     "level": "high",
     "round": 2,
     "word": "be capable of",
-    "meaning": "~할 수 있다"
+    "meaning": "~할 수 있다",
+    "type": "word"
   },
   {
     "id": "high-2-033",
     "level": "high",
     "round": 2,
     "word": "capture",
-    "meaning": "사로잡다, 포획하다"
+    "meaning": "사로잡다, 포획하다",
+    "type": "word"
   },
   {
     "id": "high-2-034",
     "level": "high",
     "round": 2,
     "word": "carve",
-    "meaning": "조각하다, 새기다"
+    "meaning": "조각하다, 새기다",
+    "type": "word"
   },
   {
     "id": "high-2-035",
     "level": "high",
     "round": 2,
     "word": "cast",
-    "meaning": "던지다, 투표하다"
+    "meaning": "던지다, 투표하다",
+    "type": "word"
   },
   {
     "id": "high-2-036",
     "level": "high",
     "round": 2,
     "word": "celebrate",
-    "meaning": "축하하다"
+    "meaning": "축하하다",
+    "type": "word"
   },
   {
     "id": "high-2-037",
     "level": "high",
     "round": 2,
     "word": "challenge",
-    "meaning": "도전, 도전하다"
+    "meaning": "도전, 도전하다",
+    "type": "word"
   },
   {
     "id": "high-2-038",
     "level": "high",
     "round": 2,
     "word": "chat",
-    "meaning": "잡담하다"
+    "meaning": "잡담하다",
+    "type": "word"
   },
   {
     "id": "high-2-039",
     "level": "high",
     "round": 2,
     "word": "cherish",
-    "meaning": "소중히 하다"
+    "meaning": "소중히 하다",
+    "type": "word"
   },
   {
     "id": "high-2-040",
     "level": "high",
     "round": 2,
     "word": "circulate",
-    "meaning": "유통하다, 순환하다"
+    "meaning": "유통하다, 순환하다",
+    "type": "word"
   },
   {
     "id": "high-2-041",
     "level": "high",
     "round": 2,
     "word": "civilize",
-    "meaning": "교화(문명화)하다"
+    "meaning": "교화(문명화)하다",
+    "type": "word"
   },
   {
     "id": "high-2-042",
     "level": "high",
     "round": 2,
     "word": "claim",
-    "meaning": "요구하다, 주장하다"
+    "meaning": "요구하다, 주장하다",
+    "type": "word"
   },
   {
     "id": "high-2-043",
     "level": "high",
     "round": 2,
     "word": "classify",
-    "meaning": "분류하다"
+    "meaning": "분류하다",
+    "type": "word"
   },
   {
     "id": "high-2-044",
     "level": "high",
     "round": 2,
     "word": "collapse",
-    "meaning": "붕괴하다"
+    "meaning": "붕괴하다",
+    "type": "word"
   },
   {
     "id": "high-2-045",
     "level": "high",
     "round": 2,
     "word": "collect",
-    "meaning": "모으다"
+    "meaning": "모으다",
+    "type": "word"
   }
 ]

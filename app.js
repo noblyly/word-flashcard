@@ -203,6 +203,10 @@ function wordsFor(level, round) {
 function unknownCount(level, round) {
   return wordsFor(level, round).filter((w) => (state.progress.get(w.id) || {}).status === 'unknown').length;
 }
+function roundIsVerb3(level, round) {
+  const words = wordsFor(level, round);
+  return words.length > 0 && words.every((w) => w.type === 'verb3');
+}
 function findWord(level, id) {
   return state.words[level].find((w) => w.id === id);
 }
@@ -348,7 +352,7 @@ function checkAnswer() {
   let isCorrect = false;
   const fieldResult = {};
 
-  if (t.level === 'middle') {
+  if (w.type === 'verb3') {
     const pres = normalize(document.getElementById('in-present')?.value);
     const past = normalize(document.getElementById('in-past')?.value);
     const pp = normalize(document.getElementById('in-pp')?.value);
@@ -486,9 +490,12 @@ function renderHome() {
   const round = state.round;
   const total = wordsFor(level, round).length;
   const unknown = unknownCount(level, round);
+  const isVerb3Round = roundIsVerb3(level, round);
+  const levelName = level === 'middle' ? '중등영어' : '고등영어';
+  const formatDesc = isVerb3Round ? '현재형/과거형/과거분사' : '단어와 뜻';
   return `
     <div class="screen">
-      <div class="section-label">${state.round}회 · ${level === 'middle' ? '중등영어 · 현재형/과거형/과거분사' : '고등영어 · 단어와 뜻'}</div>
+      <div class="section-label">${state.round}회 · ${levelName} · ${formatDesc}</div>
       <div class="mode-list">
         <button class="mode-card" onclick="startStudy('${level}',${round})">
           <div class="title">📖 학습모드</div>
@@ -524,20 +531,20 @@ function renderInSessionHeader(index, totalLen, extra) {
 function renderStudy() {
   const s = state.study;
   const w = s.queue[s.index];
-  const isMiddle = state.level === 'middle';
+  const isVerb3 = w.type === 'verb3';
 
   let front, speakText;
   if (s.direction === 'word') {
-    front = isMiddle ? w.present : w.word;
+    front = isVerb3 ? w.present : w.word;
     speakText = front;
   } else {
     front = w.meaning;
-    speakText = isMiddle ? `${w.present}, ${w.past}, ${w.pastParticiple}` : w.word;
+    speakText = isVerb3 ? `${w.present}, ${w.past}, ${w.pastParticiple}` : w.word;
   }
 
   let answerBlock = '';
   if (s.flipped) {
-    if (isMiddle) {
+    if (isVerb3) {
       answerBlock = `
         <div class="answer-block">
           <div class="forms-row">
@@ -607,11 +614,11 @@ function renderTest() {
 
   const q = t.queue[t.index];
   const w = q.word;
-  const isMiddle = t.level === 'middle';
+  const isVerb3 = w.type === 'verb3';
 
   let promptHtml, fieldsHtml, feedbackHtml = '';
 
-  if (isMiddle) {
+  if (isVerb3) {
     promptHtml = `<div class="prompt-text">${w.meaning}</div><div class="section-label">현재형 · 과거형 · 과거분사를 입력하세요</div>`;
     const fr = t.fieldResult || {};
     fieldsHtml = `
