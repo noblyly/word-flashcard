@@ -254,7 +254,9 @@ function beginStudy(level, round, resumeData) {
     queue = resumeData.queueIds.map((id) => findWord(level, id)).filter(Boolean);
     startIndex = resumeData.index;
   } else {
-    queue = shuffle(wordsFor(level, round));
+    const words = wordsFor(level, round);
+    const shouldShuffle = !(level === 'middle' && round >= 2);
+    queue = shouldShuffle ? shuffle(words) : words.slice();
   }
   if (queue.length === 0) return;
   state.level = level;
