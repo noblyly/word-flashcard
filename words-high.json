@@ -718,5 +718,725 @@
     "word": "collect",
     "meaning": "모으다",
     "type": "word"
+  },
+  {
+    "id": "high-3-001",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "command",
+    "meaning": "명령하다, 지휘하다"
+  },
+  {
+    "id": "high-3-002",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "comment",
+    "meaning": "주석달다, 논평하다"
+  },
+  {
+    "id": "high-3-003",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "commit",
+    "meaning": "범하다, 맡기다"
+  },
+  {
+    "id": "high-3-004",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "communicate",
+    "meaning": "전달하다, 통신하다"
+  },
+  {
+    "id": "high-3-005",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "commute",
+    "meaning": "통근하다"
+  },
+  {
+    "id": "high-3-006",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "compare",
+    "meaning": "비교하다, 비유하다"
+  },
+  {
+    "id": "high-3-007",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "compensate",
+    "meaning": "배상하다, 갚다"
+  },
+  {
+    "id": "high-3-008",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "compete",
+    "meaning": "경쟁하다"
+  },
+  {
+    "id": "high-3-009",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "complain",
+    "meaning": "불평하다"
+  },
+  {
+    "id": "high-3-010",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "complicate",
+    "meaning": "복잡하게 하다"
+  },
+  {
+    "id": "high-3-011",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "compose",
+    "meaning": "구성하다, 작문하다, 작곡하다"
+  },
+  {
+    "id": "high-3-012",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "comprehend",
+    "meaning": "이해하다, 포함하다"
+  },
+  {
+    "id": "high-3-013",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "compromise",
+    "meaning": "타협하다"
+  },
+  {
+    "id": "high-3-014",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "conceal",
+    "meaning": "감추다"
+  },
+  {
+    "id": "high-3-015",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "conceive",
+    "meaning": "상상하다, 품다"
+  },
+  {
+    "id": "high-3-016",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "concentrate",
+    "meaning": "집중하다"
+  },
+  {
+    "id": "high-3-017",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "conclude",
+    "meaning": "결론짓다, 결정하다"
+  },
+  {
+    "id": "high-3-018",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "conduct",
+    "meaning": "행동하다, 인도하다"
+  },
+  {
+    "id": "high-3-019",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "confess",
+    "meaning": "자백하다, 자인하다"
+  },
+  {
+    "id": "high-3-020",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "confine",
+    "meaning": "가두다, 제한하다"
+  },
+  {
+    "id": "high-3-021",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "conflict",
+    "meaning": "투쟁하다, 싸우다"
+  },
+  {
+    "id": "high-3-022",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "confront",
+    "meaning": "직면하다"
+  },
+  {
+    "id": "high-3-023",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "confuse",
+    "meaning": "혼란시키다, 당황시키다"
+  },
+  {
+    "id": "high-3-024",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "congratulate",
+    "meaning": "축하하다"
+  },
+  {
+    "id": "high-3-025",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "consider",
+    "meaning": "숙고하다, 간주하다"
+  },
+  {
+    "id": "high-3-026",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "construct",
+    "meaning": "건설하다"
+  },
+  {
+    "id": "high-3-027",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "consume",
+    "meaning": "소비하다"
+  },
+  {
+    "id": "high-3-028",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "contact",
+    "meaning": "접촉하다, 연락하다"
+  },
+  {
+    "id": "high-3-029",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "contend",
+    "meaning": "다투다, 논쟁하다"
+  },
+  {
+    "id": "high-3-030",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "contract",
+    "meaning": "계약하다"
+  },
+  {
+    "id": "high-3-031",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "contradict",
+    "meaning": "반박하다, 모순되다"
+  },
+  {
+    "id": "high-3-032",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "contrast",
+    "meaning": "대조하다"
+  },
+  {
+    "id": "high-3-033",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "contribute",
+    "meaning": "기여하다, 기부하다, 기고하다"
+  },
+  {
+    "id": "high-3-034",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "convey",
+    "meaning": "나르다, 전하다"
+  },
+  {
+    "id": "high-3-035",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "convince",
+    "meaning": "확신시키다"
+  },
+  {
+    "id": "high-3-036",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "cooperate",
+    "meaning": "협력하다"
+  },
+  {
+    "id": "high-3-037",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "cope",
+    "meaning": "맞서다, 대처하다"
+  },
+  {
+    "id": "high-3-038",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "convert",
+    "meaning": "바꾸다"
+  },
+  {
+    "id": "high-3-039",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "correspond",
+    "meaning": "일치하다, 편지를 주고받다"
+  },
+  {
+    "id": "high-3-040",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "encourage",
+    "meaning": "용기를 주다"
+  },
+  {
+    "id": "high-3-041",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "crash",
+    "meaning": "충돌하다, 추락하다"
+  },
+  {
+    "id": "high-3-042",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "create",
+    "meaning": "창조하다"
+  },
+  {
+    "id": "high-3-043",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "cure",
+    "meaning": "치료하다, 고치다"
+  },
+  {
+    "id": "high-3-044",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "damage",
+    "meaning": "손해를 입히다"
+  },
+  {
+    "id": "high-3-045",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "deal",
+    "meaning": "거래하다, 취급하다"
+  },
+  {
+    "id": "high-3-046",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "debate",
+    "meaning": "논쟁하다, 토론하다"
+  },
+  {
+    "id": "high-3-047",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "decay",
+    "meaning": "부패하다, 쇠퇴하다"
+  },
+  {
+    "id": "high-3-048",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "deceive",
+    "meaning": "속이다"
+  },
+  {
+    "id": "high-3-049",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "decide",
+    "meaning": "결정하다, 결심하다"
+  },
+  {
+    "id": "high-3-050",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "declare",
+    "meaning": "선언하다, 신고하다"
+  },
+  {
+    "id": "high-3-051",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "decline",
+    "meaning": "쇠퇴하다, 거절하다"
+  },
+  {
+    "id": "high-3-052",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "decorate",
+    "meaning": "장식하다"
+  },
+  {
+    "id": "high-3-053",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "defeat",
+    "meaning": "패배시키다"
+  },
+  {
+    "id": "high-3-054",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "defend",
+    "meaning": "방어하다, 변호하다"
+  },
+  {
+    "id": "high-3-055",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "define",
+    "meaning": "정의하다"
+  },
+  {
+    "id": "high-3-056",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "delay",
+    "meaning": "연기하다, 지체하다"
+  },
+  {
+    "id": "high-3-057",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "delight",
+    "meaning": "즐겁게 하다"
+  },
+  {
+    "id": "high-3-058",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "deliver",
+    "meaning": "배달하다, 보고하다, 연설하다"
+  },
+  {
+    "id": "high-3-059",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "demand",
+    "meaning": "요구하다"
+  },
+  {
+    "id": "high-3-060",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "demonstrate",
+    "meaning": "증명하다, 시위하다"
+  },
+  {
+    "id": "high-3-061",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "depend",
+    "meaning": "의존하다, 좌우되다"
+  },
+  {
+    "id": "high-3-062",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "depress",
+    "meaning": "억압하다, 우울하게 하다"
+  },
+  {
+    "id": "high-3-063",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "deprive A of B",
+    "meaning": "A에게서 B를 빼앗다"
+  },
+  {
+    "id": "high-3-064",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "derive",
+    "meaning": "얻다, 유래하다"
+  },
+  {
+    "id": "high-3-065",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "descend",
+    "meaning": "내려오다"
+  },
+  {
+    "id": "high-3-066",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "describe",
+    "meaning": "묘사하다, 설명하다"
+  },
+  {
+    "id": "high-3-067",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "desert",
+    "meaning": "버리다"
+  },
+  {
+    "id": "high-3-068",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "deserve",
+    "meaning": "~할 가치가 있다"
+  },
+  {
+    "id": "high-3-069",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "despise",
+    "meaning": "경멸하다"
+  },
+  {
+    "id": "high-3-070",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "destine",
+    "meaning": "운명짓다"
+  },
+  {
+    "id": "high-3-071",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "destroy",
+    "meaning": "파괴하다"
+  },
+  {
+    "id": "high-3-072",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "detail",
+    "meaning": "상세히 말하다"
+  },
+  {
+    "id": "high-3-073",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "detect",
+    "meaning": "발견하다, 간파하다"
+  },
+  {
+    "id": "high-3-074",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "determine",
+    "meaning": "결정하다, 결심하다"
+  },
+  {
+    "id": "high-3-075",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "devise",
+    "meaning": "고안하다"
+  },
+  {
+    "id": "high-3-076",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "devote",
+    "meaning": "바치다"
+  },
+  {
+    "id": "high-3-077",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "differ",
+    "meaning": "다르다"
+  },
+  {
+    "id": "high-3-078",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "digest",
+    "meaning": "소화하다, 숙고하다"
+  },
+  {
+    "id": "high-3-079",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "diminish",
+    "meaning": "줄어들다, 감소하다"
+  },
+  {
+    "id": "high-3-080",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "direct",
+    "meaning": "지시하다, 지도하다"
+  },
+  {
+    "id": "high-3-081",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "disappoint",
+    "meaning": "실망시키다"
+  },
+  {
+    "id": "high-3-082",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "discipline",
+    "meaning": "훈련하다"
+  },
+  {
+    "id": "high-3-083",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "discriminate",
+    "meaning": "구별하다"
+  },
+  {
+    "id": "high-3-084",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "disguise",
+    "meaning": "변장하다"
+  },
+  {
+    "id": "high-3-085",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "disillusion",
+    "meaning": "환멸을 느끼게 하다"
+  },
+  {
+    "id": "high-3-086",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "dismiss",
+    "meaning": "해고하다, 해산하다"
+  },
+  {
+    "id": "high-3-087",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "display",
+    "meaning": "보이다, 진열하다, 전시하다"
+  },
+  {
+    "id": "high-3-088",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "dispose",
+    "meaning": "처리하다"
+  },
+  {
+    "id": "high-3-089",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "distinguish",
+    "meaning": "구별하다"
+  },
+  {
+    "id": "high-3-090",
+    "level": "high",
+    "round": 3,
+    "type": "word",
+    "word": "distribute",
+    "meaning": "분배하다"
   }
 ]
