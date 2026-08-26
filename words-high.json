@@ -1438,5 +1438,725 @@
     "type": "word",
     "word": "distribute",
     "meaning": "분배하다"
+  },
+  {
+    "id": "high-4-001",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "disturb",
+    "meaning": "방해하다"
+  },
+  {
+    "id": "high-4-002",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "divide",
+    "meaning": "나누다, 분할하다"
+  },
+  {
+    "id": "high-4-003",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "dominate",
+    "meaning": "지배하다"
+  },
+  {
+    "id": "high-4-004",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "domesticate",
+    "meaning": "길들이다"
+  },
+  {
+    "id": "high-4-005",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "dwell",
+    "meaning": "살다, 거주하다"
+  },
+  {
+    "id": "high-4-006",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "elect",
+    "meaning": "뽑다, 선거하다"
+  },
+  {
+    "id": "high-4-007",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "eliminate",
+    "meaning": "제거하다"
+  },
+  {
+    "id": "high-4-008",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "embarrass",
+    "meaning": "난처하게 하다"
+  },
+  {
+    "id": "high-4-009",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "emerge",
+    "meaning": "나타나다"
+  },
+  {
+    "id": "high-4-010",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "emigrate",
+    "meaning": "이주하다"
+  },
+  {
+    "id": "high-4-011",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "emphasize",
+    "meaning": "강조하다"
+  },
+  {
+    "id": "high-4-012",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "encounter",
+    "meaning": "만나다"
+  },
+  {
+    "id": "high-4-013",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "endeavor",
+    "meaning": "노력하다"
+  },
+  {
+    "id": "high-4-014",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "endure",
+    "meaning": "견디다"
+  },
+  {
+    "id": "high-4-015",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "entertain",
+    "meaning": "즐겁게 하다"
+  },
+  {
+    "id": "high-4-016",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "envy",
+    "meaning": "시기하다, 선망하다"
+  },
+  {
+    "id": "high-4-017",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "equip",
+    "meaning": "장비를 갖추다"
+  },
+  {
+    "id": "high-4-018",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "establish",
+    "meaning": "설립하다, 확립하다"
+  },
+  {
+    "id": "high-4-019",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "estimate",
+    "meaning": "추정하다, 평가하다"
+  },
+  {
+    "id": "high-4-020",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "evolve",
+    "meaning": "진화하다"
+  },
+  {
+    "id": "high-4-021",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "exaggerate",
+    "meaning": "과장하다"
+  },
+  {
+    "id": "high-4-022",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "excel",
+    "meaning": "(남보다) 낫다"
+  },
+  {
+    "id": "high-4-023",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "exceed",
+    "meaning": "넘다, 능가하다"
+  },
+  {
+    "id": "high-4-024",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "exchange",
+    "meaning": "교환하다"
+  },
+  {
+    "id": "high-4-025",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "exclude",
+    "meaning": "제외하다, 배척하다"
+  },
+  {
+    "id": "high-4-026",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "execute",
+    "meaning": "실시하다, 성취하다"
+  },
+  {
+    "id": "high-4-027",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "exert",
+    "meaning": "노력하다"
+  },
+  {
+    "id": "high-4-028",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "exhaust",
+    "meaning": "소진하다, 지치게 하다"
+  },
+  {
+    "id": "high-4-029",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "exhibit",
+    "meaning": "보이다, 전시하다"
+  },
+  {
+    "id": "high-4-030",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "exist",
+    "meaning": "존재하다"
+  },
+  {
+    "id": "high-4-031",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "expand",
+    "meaning": "확장하다"
+  },
+  {
+    "id": "high-4-032",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "expend",
+    "meaning": "소비하다"
+  },
+  {
+    "id": "high-4-033",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "explain",
+    "meaning": "설명하다"
+  },
+  {
+    "id": "high-4-034",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "explode",
+    "meaning": "폭발하다"
+  },
+  {
+    "id": "high-4-035",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "explore",
+    "meaning": "탐험하다"
+  },
+  {
+    "id": "high-4-036",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "export",
+    "meaning": "수출하다"
+  },
+  {
+    "id": "high-4-037",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "expose",
+    "meaning": "폭로하다"
+  },
+  {
+    "id": "high-4-038",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "express",
+    "meaning": "나타내다, 표현하다"
+  },
+  {
+    "id": "high-4-039",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "extend",
+    "meaning": "넓히다, 뻗치다"
+  },
+  {
+    "id": "high-4-040",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "extinguish",
+    "meaning": "끄다"
+  },
+  {
+    "id": "high-4-041",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "extract",
+    "meaning": "뽑다, 추출하다"
+  },
+  {
+    "id": "high-4-042",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "fade",
+    "meaning": "(색이) 바래다, 시들다"
+  },
+  {
+    "id": "high-4-043",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "fascinate",
+    "meaning": "매혹하다"
+  },
+  {
+    "id": "high-4-044",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "favor",
+    "meaning": "호의를 보이다, 찬성하다"
+  },
+  {
+    "id": "high-4-045",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "flourish",
+    "meaning": "번창하다"
+  },
+  {
+    "id": "high-4-046",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "focus",
+    "meaning": "초점을 집중하다"
+  },
+  {
+    "id": "high-4-047",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "forbid",
+    "meaning": "금하다"
+  },
+  {
+    "id": "high-4-048",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "forgive",
+    "meaning": "용서하다"
+  },
+  {
+    "id": "high-4-049",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "found",
+    "meaning": "창립하다"
+  },
+  {
+    "id": "high-4-050",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "frighten",
+    "meaning": "깜짝 놀라게 하다"
+  },
+  {
+    "id": "high-4-051",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "frustrate",
+    "meaning": "좌절시키다"
+  },
+  {
+    "id": "high-4-052",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "function",
+    "meaning": "작용하다, 기능하다"
+  },
+  {
+    "id": "high-4-053",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "furnish",
+    "meaning": "공급하다, 비치하다"
+  },
+  {
+    "id": "high-4-054",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "gaze",
+    "meaning": "응시하다"
+  },
+  {
+    "id": "high-4-055",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "generalize",
+    "meaning": "일반화하다"
+  },
+  {
+    "id": "high-4-056",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "generate",
+    "meaning": "낳다, 일으키다"
+  },
+  {
+    "id": "high-4-057",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "glance",
+    "meaning": "힐끗 보다"
+  },
+  {
+    "id": "high-4-058",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "govern",
+    "meaning": "통치하다, 지배하다"
+  },
+  {
+    "id": "high-4-059",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "graduate",
+    "meaning": "졸업하다"
+  },
+  {
+    "id": "high-4-060",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "grasp",
+    "meaning": "움켜쥐다, 이해하다"
+  },
+  {
+    "id": "high-4-061",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "be grateful",
+    "meaning": "감사하다"
+  },
+  {
+    "id": "high-4-062",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "gratify",
+    "meaning": "만족시키다"
+  },
+  {
+    "id": "high-4-063",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "greet",
+    "meaning": "인사하다, 맞이하다"
+  },
+  {
+    "id": "high-4-064",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "guarantee",
+    "meaning": "보증하다"
+  },
+  {
+    "id": "high-4-065",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "harm",
+    "meaning": "해치다"
+  },
+  {
+    "id": "high-4-066",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "harmonize",
+    "meaning": "조화시키다"
+  },
+  {
+    "id": "high-4-067",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "harvest",
+    "meaning": "수확하다"
+  },
+  {
+    "id": "high-4-068",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "hasten",
+    "meaning": "서두르다"
+  },
+  {
+    "id": "high-4-069",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "hate",
+    "meaning": "미워하다, 싫어하다"
+  },
+  {
+    "id": "high-4-070",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "heal",
+    "meaning": "고치다, 낫게 하다"
+  },
+  {
+    "id": "high-4-071",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "hesitate",
+    "meaning": "주저하다"
+  },
+  {
+    "id": "high-4-072",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "identify",
+    "meaning": "동일시하다"
+  },
+  {
+    "id": "high-4-073",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "ignore",
+    "meaning": "무시하다"
+  },
+  {
+    "id": "high-4-074",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "illustrate",
+    "meaning": "예증하다, 설명하다"
+  },
+  {
+    "id": "high-4-075",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "imagine",
+    "meaning": "상상하다"
+  },
+  {
+    "id": "high-4-076",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "imply",
+    "meaning": "내포하다, 함축하다, 암시하다"
+  },
+  {
+    "id": "high-4-077",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "impose",
+    "meaning": "부과하다, 강요하다"
+  },
+  {
+    "id": "high-4-078",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "impress",
+    "meaning": "인상을 주다"
+  },
+  {
+    "id": "high-4-079",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "imprison",
+    "meaning": "투옥하다"
+  },
+  {
+    "id": "high-4-080",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "improve",
+    "meaning": "개선하다, 진보하다"
+  },
+  {
+    "id": "high-4-081",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "incline",
+    "meaning": "기울이다"
+  },
+  {
+    "id": "high-4-082",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "include",
+    "meaning": "포함하다"
+  },
+  {
+    "id": "high-4-083",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "increase",
+    "meaning": "증가하다"
+  },
+  {
+    "id": "high-4-084",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "indicate",
+    "meaning": "지시하다, 나타내다"
+  },
+  {
+    "id": "high-4-085",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "infect",
+    "meaning": "전염시키다"
+  },
+  {
+    "id": "high-4-086",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "influence",
+    "meaning": "영향을 미치다"
+  },
+  {
+    "id": "high-4-087",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "inform",
+    "meaning": "알리다"
+  },
+  {
+    "id": "high-4-088",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "inhabit",
+    "meaning": "살다, 거주하다"
+  },
+  {
+    "id": "high-4-089",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "inherit",
+    "meaning": "상속하다, 유전하다"
+  },
+  {
+    "id": "high-4-090",
+    "level": "high",
+    "round": 4,
+    "type": "word",
+    "word": "injure",
+    "meaning": "다치게 하다, 손상하다"
   }
 ]
