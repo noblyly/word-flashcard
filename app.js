@@ -232,7 +232,7 @@ function findWord(level, id) {
 function setLevel(level) {
   state.level = level;
   const rounds = getRounds(level);
-  if (!rounds.includes(state.round)) state.round = rounds[0] || 1;
+  state.round = rounds[0] || 1;
   render();
 }
 function setRound(round) {
