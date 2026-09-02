@@ -2158,5 +2158,725 @@
     "type": "word",
     "word": "injure",
     "meaning": "다치게 하다, 손상하다"
+  },
+  {
+    "id": "high-5-001",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "inquire",
+    "meaning": "묻다, 안부를 묻다"
+  },
+  {
+    "id": "high-5-002",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "insist",
+    "meaning": "주장하다, 고집하다"
+  },
+  {
+    "id": "high-5-003",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "inspect",
+    "meaning": "검사하다, 시찰하다"
+  },
+  {
+    "id": "high-5-004",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "instruct",
+    "meaning": "가르치다, 지시하다"
+  },
+  {
+    "id": "high-5-005",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "insult",
+    "meaning": "모욕하다"
+  },
+  {
+    "id": "high-5-006",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "insure",
+    "meaning": "보증하다"
+  },
+  {
+    "id": "high-5-007",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "intensify",
+    "meaning": "강하게 하다"
+  },
+  {
+    "id": "high-5-008",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "intend",
+    "meaning": "~할 작정이다"
+  },
+  {
+    "id": "high-5-009",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "interest",
+    "meaning": "관심을 주다"
+  },
+  {
+    "id": "high-5-010",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "interfere",
+    "meaning": "간섭하다, 방해하다"
+  },
+  {
+    "id": "high-5-011",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "interpret",
+    "meaning": "통역하다, 해석하다"
+  },
+  {
+    "id": "high-5-012",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "interrupt",
+    "meaning": "방해하다, 중단하다"
+  },
+  {
+    "id": "high-5-013",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "introduce",
+    "meaning": "소개하다, 도입하다"
+  },
+  {
+    "id": "high-5-014",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "invade",
+    "meaning": "침입하다"
+  },
+  {
+    "id": "high-5-015",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "invest",
+    "meaning": "투자하다, 부여하다"
+  },
+  {
+    "id": "high-5-016",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "investigate",
+    "meaning": "조사하다, 연구하다"
+  },
+  {
+    "id": "high-5-017",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "involve",
+    "meaning": "포함하다, 휘말리다"
+  },
+  {
+    "id": "high-5-018",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "isolate",
+    "meaning": "격리하다, 고립시키다"
+  },
+  {
+    "id": "high-5-019",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "issue",
+    "meaning": "발행하다"
+  },
+  {
+    "id": "high-5-020",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "justify",
+    "meaning": "정당화하다, 변명하다"
+  },
+  {
+    "id": "high-5-021",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "lack",
+    "meaning": "~이 없다, 부족하다"
+  },
+  {
+    "id": "high-5-022",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "limit",
+    "meaning": "제한하다, 한정하다"
+  },
+  {
+    "id": "high-5-023",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "magnify",
+    "meaning": "확대하다"
+  },
+  {
+    "id": "high-5-024",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "maintain",
+    "meaning": "유지하다, 주장하다"
+  },
+  {
+    "id": "high-5-025",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "manage",
+    "meaning": "관리하다, 간신히 ~하다"
+  },
+  {
+    "id": "high-5-026",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "manufacture",
+    "meaning": "제조하다"
+  },
+  {
+    "id": "high-5-027",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "measure",
+    "meaning": "측정하다"
+  },
+  {
+    "id": "high-5-028",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "meditate",
+    "meaning": "숙고하다, 묵상하다"
+  },
+  {
+    "id": "high-5-029",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "mention",
+    "meaning": "말하다"
+  },
+  {
+    "id": "high-5-030",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "modify",
+    "meaning": "변경하다, 수식하다, 완화하다"
+  },
+  {
+    "id": "high-5-031",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "motivate",
+    "meaning": "동기를 부여하다"
+  },
+  {
+    "id": "high-5-032",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "multiply",
+    "meaning": "증가하다, 곱하다"
+  },
+  {
+    "id": "high-5-033",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "neglect",
+    "meaning": "무시하다"
+  },
+  {
+    "id": "high-5-034",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "negotiate",
+    "meaning": "교섭하다"
+  },
+  {
+    "id": "high-5-035",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "nourish",
+    "meaning": "기르다, 영양분을 주다"
+  },
+  {
+    "id": "high-5-036",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "oblige",
+    "meaning": "부득이 ~하게 하다"
+  },
+  {
+    "id": "high-5-037",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "obtain",
+    "meaning": "얻다, 획득하다"
+  },
+  {
+    "id": "high-5-038",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "occupy",
+    "meaning": "차지하다, 종사하다"
+  },
+  {
+    "id": "high-5-039",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "offend",
+    "meaning": "화나게 하다, 범하다"
+  },
+  {
+    "id": "high-5-040",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "oppose",
+    "meaning": "반대하다"
+  },
+  {
+    "id": "high-5-041",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "oppress",
+    "meaning": "압박하다"
+  },
+  {
+    "id": "high-5-042",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "organize",
+    "meaning": "조직하다"
+  },
+  {
+    "id": "high-5-043",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "overcome",
+    "meaning": "극복하다, 압도하다"
+  },
+  {
+    "id": "high-5-044",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "overtake",
+    "meaning": "따라잡다, 덮치다"
+  },
+  {
+    "id": "high-5-045",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "owe",
+    "meaning": "힘입다, 빚이 있다"
+  },
+  {
+    "id": "high-5-046",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "participate",
+    "meaning": "참가하다"
+  },
+  {
+    "id": "high-5-047",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "pause",
+    "meaning": "멈추다, 쉬다"
+  },
+  {
+    "id": "high-5-048",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "perform",
+    "meaning": "수행하다, 연기하다, 공연하다"
+  },
+  {
+    "id": "high-5-049",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "perish",
+    "meaning": "멸망하다, 죽다"
+  },
+  {
+    "id": "high-5-050",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "permit",
+    "meaning": "허가하다"
+  },
+  {
+    "id": "high-5-051",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "persevere",
+    "meaning": "인내하다, 견뎌내다"
+  },
+  {
+    "id": "high-5-052",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "persist",
+    "meaning": "고집하다"
+  },
+  {
+    "id": "high-5-053",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "persuade",
+    "meaning": "설득하다"
+  },
+  {
+    "id": "high-5-054",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "plead",
+    "meaning": "탄원하다, 변호하다"
+  },
+  {
+    "id": "high-5-055",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "plot",
+    "meaning": "줄거리, 계획하다, 음모하다"
+  },
+  {
+    "id": "high-5-056",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "plow",
+    "meaning": "갈다, 쟁기"
+  },
+  {
+    "id": "high-5-057",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "portray",
+    "meaning": "그리다"
+  },
+  {
+    "id": "high-5-058",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "possess",
+    "meaning": "소유하다"
+  },
+  {
+    "id": "high-5-059",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "postpone",
+    "meaning": "연기하다"
+  },
+  {
+    "id": "high-5-060",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "praise",
+    "meaning": "칭찬하다"
+  },
+  {
+    "id": "high-5-061",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "pray",
+    "meaning": "빌다, 기도하다"
+  },
+  {
+    "id": "high-5-062",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "precede",
+    "meaning": "~앞서다, 능가하다"
+  },
+  {
+    "id": "high-5-063",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "predict",
+    "meaning": "예언하다"
+  },
+  {
+    "id": "high-5-064",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "prescribe",
+    "meaning": "규정하다, 처방하다"
+  },
+  {
+    "id": "high-5-065",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "preserve",
+    "meaning": "유지하다, 보존하다"
+  },
+  {
+    "id": "high-5-066",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "press",
+    "meaning": "누르다, 압박하다"
+  },
+  {
+    "id": "high-5-067",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "pretend",
+    "meaning": "~인 체하다, 가장하다"
+  },
+  {
+    "id": "high-5-068",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "prevail",
+    "meaning": "유행하다, 우세하다, 설복하다"
+  },
+  {
+    "id": "high-5-069",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "privilege",
+    "meaning": "특권을 주다"
+  },
+  {
+    "id": "high-5-070",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "proceed",
+    "meaning": "나아가다, 계속하다"
+  },
+  {
+    "id": "high-5-071",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "profit",
+    "meaning": "이익을 보다"
+  },
+  {
+    "id": "high-5-072",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "progress",
+    "meaning": "진행하다, 진보하다"
+  },
+  {
+    "id": "high-5-073",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "prohibit",
+    "meaning": "금하다"
+  },
+  {
+    "id": "high-5-074",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "project",
+    "meaning": "계획하다, 내던지다"
+  },
+  {
+    "id": "high-5-075",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "promote",
+    "meaning": "촉진하다, 홍보하다, 승진하다"
+  },
+  {
+    "id": "high-5-076",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "prompt",
+    "meaning": "자극하다, 촉구하다"
+  },
+  {
+    "id": "high-5-077",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "propose",
+    "meaning": "제의하다, 신청하다"
+  },
+  {
+    "id": "high-5-078",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "prosper",
+    "meaning": "번영하다"
+  },
+  {
+    "id": "high-5-079",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "protect",
+    "meaning": "보호하다"
+  },
+  {
+    "id": "high-5-080",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "protest",
+    "meaning": "항의하다, 주장하다"
+  },
+  {
+    "id": "high-5-081",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "provide",
+    "meaning": "주다, 제공하다, 공급하다"
+  },
+  {
+    "id": "high-5-082",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "publish",
+    "meaning": "발표하다, 출판하다"
+  },
+  {
+    "id": "high-5-083",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "punish",
+    "meaning": "처벌하다"
+  },
+  {
+    "id": "high-5-084",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "purchase",
+    "meaning": "구입하다, 획득하다"
+  },
+  {
+    "id": "high-5-085",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "purify",
+    "meaning": "깨끗하게 하다"
+  },
+  {
+    "id": "high-5-086",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "pursue",
+    "meaning": "추구하다, 종사하다"
+  },
+  {
+    "id": "high-5-087",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "puzzle",
+    "meaning": "당황하게 하다"
+  },
+  {
+    "id": "high-5-088",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "qualify",
+    "meaning": "자격을 주다, 제한하다"
+  },
+  {
+    "id": "high-5-089",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "quit",
+    "meaning": "떠나다, 그만두다"
+  },
+  {
+    "id": "high-5-090",
+    "level": "high",
+    "round": 5,
+    "type": "word",
+    "word": "quote",
+    "meaning": "인용하다"
   }
 ]

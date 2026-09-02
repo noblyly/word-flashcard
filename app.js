@@ -186,6 +186,23 @@ function shuffle(arr) {
 function normalize(s) {
   return (s || '').toString().trim().toLowerCase().replace(/\s+/g, ' ');
 }
+function meaningMatches(input, meaning) {
+  const inputNorm = normalize(input);
+  if (!inputNorm) return false;
+  const meaningParts = meaning.split(/[,\/]/).map((p) => normalize(p)).filter(Boolean);
+  if (inputNorm === normalize(meaning)) return true;
+  if (meaningParts.includes(inputNorm)) return true;
+  const joinedSpace = meaningParts.join(' ');
+  if (inputNorm === joinedSpace) return true;
+  const allSingleToken = meaningParts.every((p) => !p.includes(' '));
+  if (allSingleToken) {
+    const inputTokens = inputNorm.split(/\s+/).filter(Boolean);
+    if (inputTokens.length > 0 && inputTokens.every((t) => meaningParts.includes(t))) {
+      return true;
+    }
+  }
+  return false;
+}
 function speak(text) {
   if (!('speechSynthesis' in window)) return;
   window.speechSynthesis.cancel();
@@ -195,7 +212,7 @@ function speak(text) {
   window.speechSynthesis.speak(u);
 }
 function getRounds(level) {
-  return [...new Set(state.words[level].map((w) => w.round))].sort((a, b) => a - b);
+  return [...new Set(state.words[level].map((w) => w.round))].sort((a, b) => b - a);
 }
 function wordsFor(level, round) {
   return state.words[level].filter((w) => w.round === round);
@@ -363,12 +380,11 @@ function checkAnswer() {
     fieldResult.pp = pp === normalize(w.pastParticiple);
     isCorrect = fieldResult.present && fieldResult.past && fieldResult.pp;
   } else {
-    const val = normalize(document.getElementById('in-answer')?.value);
+    const rawVal = document.getElementById('in-answer')?.value || '';
     if (q.direction === 'w2m') {
-      const parts = w.meaning.split(/[,\/]/).map((p) => normalize(p));
-      isCorrect = parts.includes(val) || normalize(w.meaning) === val;
+      isCorrect = meaningMatches(rawVal, w.meaning);
     } else {
-      isCorrect = val === normalize(w.word);
+      isCorrect = normalize(rawVal) === normalize(w.word);
     }
   }
 
