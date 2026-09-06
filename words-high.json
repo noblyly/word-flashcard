@@ -2878,5 +2878,725 @@
     "type": "word",
     "word": "quote",
     "meaning": "인용하다"
+  },
+  {
+    "id": "high-6-001",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "rage",
+    "meaning": "격노하다, 날뛰다"
+  },
+  {
+    "id": "high-6-002",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "range",
+    "meaning": "~에 걸치다, 정렬시키다"
+  },
+  {
+    "id": "high-6-003",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "rank",
+    "meaning": "순위(지위)를 차지하다"
+  },
+  {
+    "id": "high-6-004",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "realize",
+    "meaning": "깨닫다, 실현하다"
+  },
+  {
+    "id": "high-6-005",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "reap",
+    "meaning": "베다, 수확하다"
+  },
+  {
+    "id": "high-6-006",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "rear",
+    "meaning": "기르다, 세우다"
+  },
+  {
+    "id": "high-6-007",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "recall",
+    "meaning": "상기하다, 소환하다"
+  },
+  {
+    "id": "high-6-008",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "recognize",
+    "meaning": "인정하다"
+  },
+  {
+    "id": "high-6-009",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "recollect",
+    "meaning": "회상하다"
+  },
+  {
+    "id": "high-6-010",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "recommend",
+    "meaning": "추천하다"
+  },
+  {
+    "id": "high-6-011",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "recover",
+    "meaning": "회복하다"
+  },
+  {
+    "id": "high-6-012",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "reduce",
+    "meaning": "줄이다"
+  },
+  {
+    "id": "high-6-013",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "refer",
+    "meaning": "언급하다, 지칭하다, 참조하다"
+  },
+  {
+    "id": "high-6-014",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "reflect",
+    "meaning": "반사하다, 반성하다, 반영하다"
+  },
+  {
+    "id": "high-6-015",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "reform",
+    "meaning": "개혁하다, 개정하다"
+  },
+  {
+    "id": "high-6-016",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "refresh",
+    "meaning": "상쾌하게 하다"
+  },
+  {
+    "id": "high-6-017",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "register",
+    "meaning": "등록하다, 가리키다"
+  },
+  {
+    "id": "high-6-018",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "regret",
+    "meaning": "후회하다, 유감스럽게 ~하다"
+  },
+  {
+    "id": "high-6-019",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "reject",
+    "meaning": "거절하다, 되쫓아 놓다"
+  },
+  {
+    "id": "high-6-020",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "relate",
+    "meaning": "말하다, 관련시키다"
+  },
+  {
+    "id": "high-6-021",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "relax",
+    "meaning": "늦추다, 쉬다"
+  },
+  {
+    "id": "high-6-022",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "release",
+    "meaning": "해방하다, 면제하다"
+  },
+  {
+    "id": "high-6-023",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "relieve",
+    "meaning": "덜다, 경감하다, 구제하다"
+  },
+  {
+    "id": "high-6-024",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "rely",
+    "meaning": "의지하다"
+  },
+  {
+    "id": "high-6-025",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "remark",
+    "meaning": "말하다, 주목하다"
+  },
+  {
+    "id": "high-6-026",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "remove",
+    "meaning": "제거하다, 이동시키다"
+  },
+  {
+    "id": "high-6-027",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "repair",
+    "meaning": "수리하다"
+  },
+  {
+    "id": "high-6-028",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "replace",
+    "meaning": "대신하다, 교체하다"
+  },
+  {
+    "id": "high-6-029",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "represent",
+    "meaning": "반영하다, 묘사하다, 대표하다"
+  },
+  {
+    "id": "high-6-030",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "require",
+    "meaning": "필요로 하다"
+  },
+  {
+    "id": "high-6-031",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "rescue",
+    "meaning": "구하다, 구조"
+  },
+  {
+    "id": "high-6-032",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "resemble",
+    "meaning": "~을 닮다"
+  },
+  {
+    "id": "high-6-033",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "research",
+    "meaning": "연구하다, 조사하다"
+  },
+  {
+    "id": "high-6-034",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "reserve",
+    "meaning": "보류하다, 예약하다"
+  },
+  {
+    "id": "high-6-035",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "reside",
+    "meaning": "살다, 존재하다"
+  },
+  {
+    "id": "high-6-036",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "resign",
+    "meaning": "사직하다, 단념하다"
+  },
+  {
+    "id": "high-6-037",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "resist",
+    "meaning": "저항하다"
+  },
+  {
+    "id": "high-6-038",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "resolve",
+    "meaning": "결심하다, 분해하다"
+  },
+  {
+    "id": "high-6-039",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "respond",
+    "meaning": "응답하다"
+  },
+  {
+    "id": "high-6-040",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "restore",
+    "meaning": "회복시키다"
+  },
+  {
+    "id": "high-6-041",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "restrict",
+    "meaning": "제한하다"
+  },
+  {
+    "id": "high-6-042",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "retain",
+    "meaning": "보유하다, 간직하다"
+  },
+  {
+    "id": "high-6-043",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "retire",
+    "meaning": "물러나다, 은퇴하다"
+  },
+  {
+    "id": "high-6-044",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "retreat",
+    "meaning": "물러가다"
+  },
+  {
+    "id": "high-6-045",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "reveal",
+    "meaning": "나타내다, 누설하다"
+  },
+  {
+    "id": "high-6-046",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "revenge",
+    "meaning": "복수하다, 원한"
+  },
+  {
+    "id": "high-6-047",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "review",
+    "meaning": "복습하다, 재검토하다"
+  },
+  {
+    "id": "high-6-048",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "revive",
+    "meaning": "부활하다"
+  },
+  {
+    "id": "high-6-049",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "revolve",
+    "meaning": "회전하다"
+  },
+  {
+    "id": "high-6-050",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "reward",
+    "meaning": "보답하다, 상주다"
+  },
+  {
+    "id": "high-6-051",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "ridicule",
+    "meaning": "조롱, 조소하다"
+  },
+  {
+    "id": "high-6-052",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "ripen",
+    "meaning": "익다, 익히다"
+  },
+  {
+    "id": "high-6-053",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "risk",
+    "meaning": "위험, 위험을 무릅쓰다"
+  },
+  {
+    "id": "high-6-054",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "ruin",
+    "meaning": "파멸시키다, 망치다"
+  },
+  {
+    "id": "high-6-055",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "rumor",
+    "meaning": "소문, 소문을 내다"
+  },
+  {
+    "id": "high-6-056",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "sacrifice",
+    "meaning": "희생하다"
+  },
+  {
+    "id": "high-6-057",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "satisfy",
+    "meaning": "만족시키다"
+  },
+  {
+    "id": "high-6-058",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "scatter",
+    "meaning": "뿌리다"
+  },
+  {
+    "id": "high-6-059",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "scorn",
+    "meaning": "경멸하다"
+  },
+  {
+    "id": "high-6-060",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "scratch",
+    "meaning": "할퀴다, 긁다"
+  },
+  {
+    "id": "high-6-061",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "seed",
+    "meaning": "씨를 뿌리다"
+  },
+  {
+    "id": "high-6-062",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "seek",
+    "meaning": "찾다, 구하다"
+  },
+  {
+    "id": "high-6-063",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "seize",
+    "meaning": "붙잡다"
+  },
+  {
+    "id": "high-6-064",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "select",
+    "meaning": "고르다, 선택하다"
+  },
+  {
+    "id": "high-6-065",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "separate",
+    "meaning": "떼어놓다, 분리하다"
+  },
+  {
+    "id": "high-6-066",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "settle",
+    "meaning": "정착하다, 해결하다"
+  },
+  {
+    "id": "high-6-067",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "share",
+    "meaning": "나누다, 공유하다"
+  },
+  {
+    "id": "high-6-068",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "shelter",
+    "meaning": "피난하다, 보호하다"
+  },
+  {
+    "id": "high-6-069",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "sigh",
+    "meaning": "한숨 쉬다"
+  },
+  {
+    "id": "high-6-070",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "signify",
+    "meaning": "의미하다"
+  },
+  {
+    "id": "high-6-071",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "solve",
+    "meaning": "해결하다"
+  },
+  {
+    "id": "high-6-072",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "spare",
+    "meaning": "절약하다, 아끼다"
+  },
+  {
+    "id": "high-6-073",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "spoil",
+    "meaning": "망치다, 손상하다"
+  },
+  {
+    "id": "high-6-074",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "stabilize",
+    "meaning": "안정시키다"
+  },
+  {
+    "id": "high-6-075",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "stare",
+    "meaning": "응시하다"
+  },
+  {
+    "id": "high-6-076",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "starve",
+    "meaning": "굶어죽다, 갈망하다"
+  },
+  {
+    "id": "high-6-077",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "steer",
+    "meaning": "조종하다, 나아가다"
+  },
+  {
+    "id": "high-6-078",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "stir",
+    "meaning": "휘젓다, 움직이다"
+  },
+  {
+    "id": "high-6-079",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "stretch",
+    "meaning": "잡아늘이다, 퍼지다"
+  },
+  {
+    "id": "high-6-080",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "submit",
+    "meaning": "복종시키다, 제출하다"
+  },
+  {
+    "id": "high-6-081",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "subscribe",
+    "meaning": "서명하다, 기부하다, 구독하다"
+  },
+  {
+    "id": "high-6-082",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "substitute",
+    "meaning": "대리하다, 대용하다"
+  },
+  {
+    "id": "high-6-083",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "suggest",
+    "meaning": "암시하다, 제안하다"
+  },
+  {
+    "id": "high-6-084",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "sum",
+    "meaning": "합계하다, 요약하다"
+  },
+  {
+    "id": "high-6-085",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "summarize",
+    "meaning": "요약하다"
+  },
+  {
+    "id": "high-6-086",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "supplement",
+    "meaning": "보충하다"
+  },
+  {
+    "id": "high-6-087",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "supply",
+    "meaning": "공급하다, 생활용품"
+  },
+  {
+    "id": "high-6-088",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "support",
+    "meaning": "지지하다, 지탱하다, 부양하다"
+  },
+  {
+    "id": "high-6-089",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "surround",
+    "meaning": "둘러싸다"
+  },
+  {
+    "id": "high-6-090",
+    "level": "high",
+    "round": 6,
+    "type": "word",
+    "word": "survive",
+    "meaning": "살아남다, 오래 살다"
   }
 ]

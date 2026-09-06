@@ -345,8 +345,15 @@ function beginTest(level, round, mode, resumeData) {
       render();
       return;
     }
-    queue = shuffle(pool)
-      .slice(0, TEST_LIMIT)
+    // 최근에 덜 나온(또는 한 번도 안 나온) 단어를 우선 뽑아서, 반복 테스트해도 골고루 나오게 함
+    const withScore = pool.map((w) => {
+      const rec = state.progress.get(w.id);
+      const t = rec && rec.last_reviewed_at ? new Date(rec.last_reviewed_at).getTime() : 0;
+      return { w, t };
+    });
+    withScore.sort((a, b) => a.t - b.t || Math.random() - 0.5);
+    const candidates = withScore.slice(0, TEST_LIMIT).map((x) => x.w);
+    queue = shuffle(candidates)
       .map((w) => ({ word: w, direction: Math.random() < 0.5 ? 'w2m' : 'm2w' }));
   }
 
