@@ -3598,5 +3598,341 @@
     "type": "word",
     "word": "survive",
     "meaning": "살아남다, 오래 살다"
+  },
+  {
+    "id": "high-7-001",
+    "level": "high",
+    "round": 7,
+    "type": "word",
+    "word": "suspect",
+    "meaning": "의심하다"
+  },
+  {
+    "id": "high-7-002",
+    "level": "high",
+    "round": 7,
+    "type": "word",
+    "word": "suspend",
+    "meaning": "중지하다, 매달다"
+  },
+  {
+    "id": "high-7-003",
+    "level": "high",
+    "round": 7,
+    "type": "word",
+    "word": "swear",
+    "meaning": "맹세하다"
+  },
+  {
+    "id": "high-7-004",
+    "level": "high",
+    "round": 7,
+    "type": "word",
+    "word": "symbolize",
+    "meaning": "상징하다, 나타내다"
+  },
+  {
+    "id": "high-7-005",
+    "level": "high",
+    "round": 7,
+    "type": "word",
+    "word": "tame",
+    "meaning": "길들이다"
+  },
+  {
+    "id": "high-7-006",
+    "level": "high",
+    "round": 7,
+    "type": "word",
+    "word": "tap",
+    "meaning": "가볍게 두드리다"
+  },
+  {
+    "id": "high-7-007",
+    "level": "high",
+    "round": 7,
+    "type": "word",
+    "word": "taste",
+    "meaning": "맛보다, ~한 맛이 있다"
+  },
+  {
+    "id": "high-7-008",
+    "level": "high",
+    "round": 7,
+    "type": "word",
+    "word": "tempt",
+    "meaning": "유혹하다"
+  },
+  {
+    "id": "high-7-009",
+    "level": "high",
+    "round": 7,
+    "type": "word",
+    "word": "tend",
+    "meaning": "경향이 있다, 돌보다"
+  },
+  {
+    "id": "high-7-010",
+    "level": "high",
+    "round": 7,
+    "type": "word",
+    "word": "threaten",
+    "meaning": "협박하다"
+  },
+  {
+    "id": "high-7-011",
+    "level": "high",
+    "round": 7,
+    "type": "word",
+    "word": "toughen",
+    "meaning": "단단하게 하다"
+  },
+  {
+    "id": "high-7-012",
+    "level": "high",
+    "round": 7,
+    "type": "word",
+    "word": "trace",
+    "meaning": "흔적, ~을 추적하다"
+  },
+  {
+    "id": "high-7-013",
+    "level": "high",
+    "round": 7,
+    "type": "word",
+    "word": "transform",
+    "meaning": "변형하다"
+  },
+  {
+    "id": "high-7-014",
+    "level": "high",
+    "round": 7,
+    "type": "word",
+    "word": "transport",
+    "meaning": "수송하다, 교통하다"
+  },
+  {
+    "id": "high-7-015",
+    "level": "high",
+    "round": 7,
+    "type": "word",
+    "word": "treasure",
+    "meaning": "보물, 소중히 하다"
+  },
+  {
+    "id": "high-7-016",
+    "level": "high",
+    "round": 7,
+    "type": "word",
+    "word": "treat",
+    "meaning": "다루다, 대접하다, 치료하다"
+  },
+  {
+    "id": "high-7-017",
+    "level": "high",
+    "round": 7,
+    "type": "word",
+    "word": "undergo",
+    "meaning": "받다, 당하다, 겪다"
+  },
+  {
+    "id": "high-7-018",
+    "level": "high",
+    "round": 7,
+    "type": "word",
+    "word": "undertake",
+    "meaning": "떠맡다, 착수하다"
+  },
+  {
+    "id": "high-7-019",
+    "level": "high",
+    "round": 7,
+    "type": "word",
+    "word": "upset",
+    "meaning": "뒤엎다, 기분 상하게 하다"
+  },
+  {
+    "id": "high-7-020",
+    "level": "high",
+    "round": 7,
+    "type": "word",
+    "word": "urge",
+    "meaning": "강요하다, 격려하다, 역설하다"
+  },
+  {
+    "id": "high-7-021",
+    "level": "high",
+    "round": 7,
+    "type": "word",
+    "word": "usher",
+    "meaning": "안내하다, 수위"
+  },
+  {
+    "id": "high-7-022",
+    "level": "high",
+    "round": 7,
+    "type": "word",
+    "word": "utilize",
+    "meaning": "이용하다"
+  },
+  {
+    "id": "high-7-023",
+    "level": "high",
+    "round": 7,
+    "type": "word",
+    "word": "utter",
+    "meaning": "말하다"
+  },
+  {
+    "id": "high-7-024",
+    "level": "high",
+    "round": 7,
+    "type": "word",
+    "word": "value",
+    "meaning": "가치, 중시하다"
+  },
+  {
+    "id": "high-7-025",
+    "level": "high",
+    "round": 7,
+    "type": "word",
+    "word": "vary",
+    "meaning": "변화하다, 다르다"
+  },
+  {
+    "id": "high-7-026",
+    "level": "high",
+    "round": 7,
+    "type": "word",
+    "word": "venture",
+    "meaning": "감히 ~하다, 모험하다"
+  },
+  {
+    "id": "high-7-027",
+    "level": "high",
+    "round": 7,
+    "type": "word",
+    "word": "view",
+    "meaning": "경치, 의견, 목적, 보다"
+  },
+  {
+    "id": "high-7-028",
+    "level": "high",
+    "round": 7,
+    "type": "word",
+    "word": "violate",
+    "meaning": "위반하다"
+  },
+  {
+    "id": "high-7-029",
+    "level": "high",
+    "round": 7,
+    "type": "word",
+    "word": "voluntary",
+    "meaning": "자발적으로 ~하다"
+  },
+  {
+    "id": "high-7-030",
+    "level": "high",
+    "round": 7,
+    "type": "word",
+    "word": "vote",
+    "meaning": "투표하다"
+  },
+  {
+    "id": "high-7-031",
+    "level": "high",
+    "round": 7,
+    "type": "word",
+    "word": "vow",
+    "meaning": "맹세하다"
+  },
+  {
+    "id": "high-7-032",
+    "level": "high",
+    "round": 7,
+    "type": "word",
+    "word": "wage",
+    "meaning": "임금, (전쟁 등을) 하다"
+  },
+  {
+    "id": "high-7-033",
+    "level": "high",
+    "round": 7,
+    "type": "word",
+    "word": "warn",
+    "meaning": "경고하다"
+  },
+  {
+    "id": "high-7-034",
+    "level": "high",
+    "round": 7,
+    "type": "word",
+    "word": "waste",
+    "meaning": "낭비하다"
+  },
+  {
+    "id": "high-7-035",
+    "level": "high",
+    "round": 7,
+    "type": "word",
+    "word": "wither",
+    "meaning": "시들다, 말라죽다"
+  },
+  {
+    "id": "high-7-036",
+    "level": "high",
+    "round": 7,
+    "type": "word",
+    "word": "witness",
+    "meaning": "증언하다, 목격하다"
+  },
+  {
+    "id": "high-7-037",
+    "level": "high",
+    "round": 7,
+    "type": "word",
+    "word": "wonder",
+    "meaning": "궁금하게 여기다"
+  },
+  {
+    "id": "high-7-038",
+    "level": "high",
+    "round": 7,
+    "type": "word",
+    "word": "worry",
+    "meaning": "걱정하다, 괴롭히다"
+  },
+  {
+    "id": "high-7-039",
+    "level": "high",
+    "round": 7,
+    "type": "word",
+    "word": "worship",
+    "meaning": "숭배하다"
+  },
+  {
+    "id": "high-7-040",
+    "level": "high",
+    "round": 7,
+    "type": "word",
+    "word": "wrap",
+    "meaning": "포장하다"
+  },
+  {
+    "id": "high-7-041",
+    "level": "high",
+    "round": 7,
+    "type": "word",
+    "word": "yell",
+    "meaning": "큰소리를 지르다"
+  },
+  {
+    "id": "high-7-042",
+    "level": "high",
+    "round": 7,
+    "type": "word",
+    "word": "yield",
+    "meaning": "생산하다, 굴복하다, 양보하다"
   }
 ]
